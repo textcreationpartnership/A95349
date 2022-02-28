@@ -1,0 +1,813 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The balme of Gilead, for the wounds of England: applyed in a sermon preached at Westminster, before the Honourable House of Commmons, at the late solemne fast, August 30. 1643. / By Anthony Tuckney, B.D. sometimes Fellow of Eman. Colledge in Cambridge, and now pastor at Boston in the county of Lincoln. Published by order of that House.</title>
+            <author>Tuckney, Anthony, 1599-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 121 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95349</idno>
+            <idno type="STC">Wing T3210</idno>
+            <idno type="STC">Thomason E69_4</idno>
+            <idno type="STC">ESTC R886</idno>
+            <idno type="EEBO-CITATION">99873426</idno>
+            <idno type="PROQUEST">99873426</idno>
+            <idno type="VID">130925</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 130925)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E69[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The balme of Gilead, for the wounds of England: applyed in a sermon preached at Westminster, before the Honourable House of Commmons, at the late solemne fast, August 30. 1643. / By Anthony Tuckney, B.D. sometimes Fellow of Eman. Colledge in Cambridge, and now pastor at Boston in the county of Lincoln. Published by order of that House.</title>
+                  <author>Tuckney, Anthony, 1599-1670.</author>
+                  <author>England and Wales. Parliament. aut</author>
+               </titleStmt>
+               <extent>[6], 43, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Bishop for Samuel Gellibrand, at the Brazen Serpent in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A sermon preached before the Honourable House of Commons.</note>
+                  <note>A variant has a comma following "Cambridge" in line 15 of title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "Sep: 19th".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Jeremiah VIII, 22 --  Sermons --  Early works to 1800.</term>
+               <term>Fast-day sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:130925:1"/>
+            <pb facs="tcp:130925:1" rendition="simple:additions"/>
+            <p>THE BALME OF GILEAD, FOR <hi>The Wounds of ENGLAND:</hi> Applyed in A SERMON Preached at <hi>Weſtminſter,</hi> before the Ho<g ref="char:EOLhyphen"/>nourable Houſe of COMMONS, At the late ſolemne Faſt, <hi>August</hi> 30. 1643.</p>
+            <p>BY ANTHONY TUCKNEY, B. D. ſometimes Fellow of <hi>Eman. Colledge</hi> in <hi>Cambridge,</hi> and now Paſtor at <hi>Boston</hi> in the County of <hi>Lincoln.</hi>
+            </p>
+            <p>Publiſhed by Order of that Houſe.</p>
+            <p>MAL 4. 2. <hi>Vnto you that feare my name, ſhall the Sunne of Righ<g ref="char:EOLhyphen"/>teouſneſſe ariſe with healing in his wings.</hi>
+            </p>
+            <p>2 CHRON. 7. 14. <hi>If my people which are called by my name, ſhall humble themſelves, and pray, and ſeek my face, and turne from their wicked wayes: Then will I heare from heaven, and will forgive their ſinne, and will heale their Land.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Biſhop</hi> for SAMUEL GILLIBRAND, at the Brazen Serpent in Pauls Church-yard, 1643.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:130925:2"/>
+            <pb facs="tcp:130925:2"/>
+            <head>TO The Honourable Houſe OF COMMONS, Now aſſembled in <hi>PARLIAMENT.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hat Your Religious attention welcomed from the Pulpit, by your command is now come to the Preſſe; where it hum<g ref="char:EOLhyphen"/>bly craveth your Patronage, as it there enjoyed your acceptance: A plaine piece it is, but mourning Suits uſe to bee plaine, and ſo ſhould mourning Faſt Sermons bee alſo: Fidling Jigges are now out of tune, when God hath turned our Harp into mourning, and our Organ into the voice <note place="margin">
+                  <hi>Iob</hi> 30. 31.</note> of them that weep. May it therefore be but any help this way, that the mourning Turtles voice may bee yet more heard in our Land, I ſhould even in theſe <note place="margin">
+                  <hi>Cant.</hi> 2. 11. 12.</note> ſad times of our heavineſſe rejoyce in hope, that the
+<pb facs="tcp:130925:3"/> Winter were already well-nigh paſt, and the raine blown over and gone: meane while your faithfull continued endevours, that the Sun of Righteouſneſſe may yet draw nearer to us in brighter and warmer beames of his truth and grace, will much encourage our hearts after all winter ſtormes, comfortably to expect a Summers flouriſh, and Harveſts joy: You have indeed hitherto had a wet Seed-time of it, whilſt you have for ſo long a time been ſowing in teares; but bee pleaſed to goe on ſtill in Gods work and ſtrength, though it ſhould be yet weeping, if withall it be but bearing of precious ſeed, for then doubtleſſe at laſt you ſhall come againe with rejoycing, and bring your <note place="margin">
+                  <hi>Pſal.</hi> 126. 5. 6.</note> ſheaves with you. Great is the Work whereunto the Lord of the Harveſt hath called you, in which the eyes of God, Angels, and men are upon you; ſo that if you ſhould now faint and quaile, it would be with a wit<g ref="char:EOLhyphen"/>neſſe. O quit your ſelves like men, and be ſtrong.</p>
+            <p>God by your hand hath begun to thruſt his ſharp <note place="margin">1 <hi>Cor.</hi> 16. 13.</note> ſickle into the Romiſh tares, the time is come for you to reap, for the Harveſt of the Earth is ripe; let not God therefore now want work-men, nor they courage and ſtrength to beare the heat and burthen of the day, you will ſo at length come to a more comfortable eve<g ref="char:EOLhyphen"/>nings reckoning, a more quiet nights reſt in death, and a moſt bleſſed up-riſing at the laſt great day, in that Harveſt of the end of the World (and wee hope before) you and yours, will reap the fruit of all your labours, then it will be no griefe of heart to you, that you have been conſtant and unmoveable, abounding
+<pb facs="tcp:130925:3"/> alwayes in the work of the Lord, when you ſhall finde that your labour hath not been in vaine in the Lord; then whileſt you ſhall heare your Maſters <hi>Euge's,</hi> and be in the midſt of Angels <hi>Hallelujahs,</hi> we with all the Hoſt of Heaven will joyne with you, and help you to ſhout aloud for joy: He that ſhall then beyour Iudge, be now your Counſeller and Protector; both now, and then, and ever your Saviour. So prayeth</p>
+            <closer>
+               <signed>The unworthieſt of his Servants, and yours in him, ANTHONY TUCKNEY.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <pb facs="tcp:130925:4"/>
+            <opener>
+               <dateline>
+                  <date>Die Mercurii 30. Auguſt. 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day Ordered by the Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament: That Sir <hi>Edward Aſ<g ref="char:EOLhyphen"/>cough,</hi> and Sir <hi>Iohn Wray,</hi> doe from this. Houſe give thanks unto Maſter <hi>Tuckney</hi> of <hi>Boſton,</hi> and Maſter <hi>Coleman</hi> of <hi>Blyton</hi> in <hi>Lincolnſhire,</hi> for the great paines they took in the Sermons, they this day preached at the intreaty of this Houſe at S. <hi>Mar<g ref="char:EOLhyphen"/>garets Weſtminſter,</hi> It being the day of publike humili<g ref="char:EOLhyphen"/>tion, and to deſire them to Print their Sermon. And it is Ordered that no man ſhall preſume to Print their Sermons without licence under their hands.</p>
+            <closer>
+               <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>I appoint <hi>Samuel Gellibrand</hi> to Print this Sermon,</p>
+            <closer>
+               <signed>ANTHONY TUCKNEY.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>Errata</head>
+            <p>
+               <hi>PAge 3. line 18. read</hi> all <hi>diſeaſes, p. 6. l. 6. r.</hi> Syſtem, <hi>l. 26. r</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>p. 17. l. 25. r.</hi> this <hi>p. 19 l. 12 r.</hi> longer, <hi>l.</hi> 13. <hi>r.</hi> for, <hi>p. 20. l 20. r.</hi> care <hi>p. 24. l. 7. dele</hi> to, <hi>in the margent r,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>p 26 l. 16 r.</hi> bodies, <hi>l. 22 r.</hi> knew, <hi>p. 27. r. l 16 r.</hi> was poured into, <hi>p. 28. l. 6. r.</hi> cheare <hi>p. 29 l 13. r.</hi> is then, <hi>over againſt l. 25 ſet <g ref="char:V">Ʋ</g>ſe 1. p. 30. l. 22. r</hi> great head, <hi>l 33. r.</hi> into beſt, <hi>p. 35. l. 10. r.</hi> biggen. <hi>p.</hi> 41 <hi>l. 35. r.</hi> want of power, <hi>p. 42. l. 2. r.</hi> Gods.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:130925:4"/>
+            <head>A SERMON Preached before The Honourable Houſe OF COMMONS At the Publike Faſt, Auguſt 30. 1643.</head>
+            <epigraph>
+               <bibl>IEREM. 8. 22.</bibl>
+               <q>Is there no balme in Gilead? is there no Phyſician there? why then is not the health of the daughter of my people reco<g ref="char:EOLhyphen"/>vered?</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE wound is mortall, when the patient dieth under his Chirurgeons hand: and ſuch a dead<g ref="char:EOLhyphen"/>ly wounded Body of his people had our Pro<g ref="char:EOLhyphen"/>phet here under his cure; which when he could not heale, he weeps over; they ſwoune, and he faints, verſe 18. they are confounded, and he is aſtoniſhed, verſe 21, and as a man in paſſion and amazement expreſſeth a greater <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by asking queſtions, then by ſpeak<g ref="char:EOLhyphen"/>ing ſentences: As <hi>Ahaſhuerus, Eſth. 7. 5. Who? where?</hi> ſo the Prophet doth the like here in his, <hi>Is there not?</hi> And again, <hi>Is there
+<pb n="2" facs="tcp:130925:5"/> not?</hi> and then, <hi>Why is not? Is there no balme in Gilead? is there no Phyſician there? why then is not the health of the daugh<g ref="char:EOLhyphen"/>ter of my people recovered?</hi>
+            </p>
+            <p>The firſt queſtion, <hi>Is there no balme in Gilead? &amp;c.</hi> had it been made by any of the poore unbeleiving people affirmatively, Thus, <hi>Is there any balme in Gilead?</hi> eſpecially relating to the bad ſucceſſe which might ſeeme to intimate the contrary, (as theirs, <hi>Exod.</hi> 17. 7. <hi>Is the Lord amongſt us?)</hi> would have ex<g ref="char:EOLhyphen"/>preſſed a doubt, whether indeed there had been any balme, ſee<g ref="char:EOLhyphen"/>ing there was no healing by it: but when made by the Lord him<g ref="char:EOLhyphen"/>ſelfe, or by the Prophet in his name, with the negative <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as aggravating that ill ſucceſſe; ſo it is a ſtronger, even a double affirmation, that indeed there was both balme in Gilead, and alſo a Phyſician there, which not only he affirmes, but alſo ap<g ref="char:EOLhyphen"/>peales to them, whether they could deny, and taking it for granted that they could not, Hee proceeds to his</p>
+            <p>Second queſtion, <hi>Why then is not, &amp;c.</hi> Which is a queſtion, partly of inquiry, Why? And partly of a bemoaning and <note place="margin">As 2 <hi>Sam.</hi> 13. 4. <hi>Ezek.</hi> 18. 31.</note> expoſtulating complaint: That ſuch admirable helps ſhould be no more helpfull, meanes ſo proper and precious, ſo unſuc<g ref="char:EOLhyphen"/>ceſſefull, that Gileads balme, (the beſt medicine) and Gileads Phyſician, (who beſt knew how to apply it) could work no better a cure on a poore dying people. <hi>Is there no balme in Gilead? is there no Phyſician there? and then why, O why then is not the health of the daughter of my people recovered?</hi> A little for the explication of the words.</p>
+            <p>By <hi>Gilead,</hi> underſtand either the City ſo called, <hi>Hoſ.</hi> 6. 8. <note place="margin">
+                  <hi>Gilead Schindler</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>ad vocem Leut.</hi> 34. 1. 1 <hi>Kings</hi> 4. 19. <hi>Mercer. in Gen.</hi> 31. 47.</note> which is conceived to bee a chiefe <hi>Emporium,</hi> where ſuch commodities were ſold: or the Land and Countrey of <hi>Gilead,</hi> as it is elſewhere called in Scripture, containing the whole lot of the two Tribes and halfe on other ſide <hi>Iordan,</hi> as appeares from 1 <hi>Kings</hi> 10. 33. where the plant that afforded it, eſpecially a<g ref="char:EOLhyphen"/>bounded: ſo wee read of the <hi>Iſhmaelites</hi> that bought <hi>Ioſeph,</hi> carrying balme from <hi>Gilead</hi> to <hi>Egypt, Gen.</hi> 37. 25. and the daughter of <hi>Egypt</hi> is bidden to fetch balme from <hi>Gilead, Ier.</hi> 46. 11. and accordingly, <hi>Ezek.</hi> 27. 17. we finde it to be one of the ſpeciall commodities that <hi>Iudah</hi> and the land of <hi>Iſrael</hi> traffiqued with <hi>Tyrus</hi> in, according to that of <hi>Pliny, Balſam<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 12. <hi>cap.</hi> 25.</note>
+               <pb n="3" facs="tcp:130925:5"/> 
+               <hi>uni terrarum Iudeae conceſſum,</hi> as though balme were a pecu<g ref="char:EOLhyphen"/>liar largeſſe vouchſafed by God to <hi>Iudea</hi> only, there only to bee had, or at leaſt (as <hi>Sylvius</hi> obſerveth) the beſt there only, God willing that all other Nations ſhould be beholden to <hi>Iſrael</hi> for balme, it may be thereby hinting to us that he would have the whole world beholden to his Church for healing.</p>
+            <p>
+               <hi>Balme]</hi> for nature and kind the juice or oyle, which a lower <note place="margin">Balme</note> ſhrub growing eſpecially about <note n="*" place="margin">
+                  <hi>Ab <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſui ſuavitate no<g ref="char:EOLhyphen"/>men tobi de<g ref="char:EOLhyphen"/>diſſe creditur,</hi> Mol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. in Pſal. 133. 2.</note> 
+               <hi>Iericho</hi> (the bark of it being cut with glaſſe, or bone, or Ivory knives) weeps or bleeds out. For price and worth ſuch, as <hi>Dioſcorides</hi> ſaith, that in his dayes it was ſold for double its weight in ſilver: <hi>Pliny</hi> af<g ref="char:EOLhyphen"/>firmes that in his time a thouſand of their pence (one of which was the ſixth part of an ounce) was given for a quart of it, ſo that (as <hi>Rhenodeus</hi> conceiveth) onely Kings and great men had it, and uſed it: For vertue and efficacy, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith the fore-mentioned Author, moſt ſtrong and ſoveraigne, <hi>Medicina difficillimorum morborum,</hi> welnigh a <hi>Catholicon</hi> for diſeaſes, and a cure for the worſt: I liſt not here <note place="margin">Shindler.</note> to reckon up to you all that they ſay its good for, whether ap<g ref="char:EOLhyphen"/>plyed inwardly or outwardly, how it helps the eye-ſight and breathing, eaſeth the head-ach, qualifieth fevers, &amp;c. but eſpecially to my purpoſe, <hi>ulcera purgat, &amp;c.</hi> it cleanſeth fouleſt ſores, healeth deepeſt wounds, and cureth the moſt venomous ſtinging of Serpents, and the like. This was in the letter <hi>Gileads</hi> balme.</p>
+            <p>To which the Prophet in the Text joyneth its <hi>Phyſician:</hi> Ar<g ref="char:EOLhyphen"/>tiſts <note place="margin">Phyſician.</note> uſing to abound where they have ſuch great plenty of ma<g ref="char:EOLhyphen"/>terials: many good Phyſicians whereſo much good phyſick.</p>
+            <p>Both which put together, in the true meaning of our Prophet, hold out compleat meanes, fully able <hi>(in genere mediorum)</hi> to work a perfect cure, even when the wound or diſeaſe is other<g ref="char:EOLhyphen"/>wiſe moſt deadly and deſperate.</p>
+            <p>And yet here they failed, for notwithſtanding them the latter part of the Text ſayth, that the health of the daughter of that people was not recovered; for the clearing of which expreſſion, I ſhould abuſe your attention and time (both better now to bee improved) ſhould I be large in Grammaticall criticiſmes upon this Hebraiſme of [The daughter of my people;] leſſer Townes
+<pb n="4" facs="tcp:130925:6"/> and Villages, in the ſimplicity of that holy Tongue, are called the daughters of the <hi>Metropolis</hi> or mother City; and the Ci<g ref="char:EOLhyphen"/>tizens <note place="margin">
+                  <hi>Ioſh.</hi> 17. 16.</note> or Inhabitatants of any City or Countrey the Sonnes of it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>fil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> populi mei,</hi> for <hi>populares mei:</hi> but leave we thoſe <note place="margin">
+                  <hi>Gen.</hi> 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> obſervations, and take it here plainly, the daughter of my peo<g ref="char:EOLhyphen"/>ple, for the body of that people; that Virgin daughter of <hi>Zion,</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> who though as tenderly beloved of God, as tendereſt daughter by deareſt parent is or can be yet by her wilfull caſting of her ſelfe into a deſperate ſickneſſe of ſinne, ſhee had made the wound of her miſery incurable, incorrigibleneſſe in ſin againſt all beſt meanes ended in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrecoverableneſſe of miſery, notwith<g ref="char:EOLhyphen"/>ding all beſt medicines; this latter I conceive is here eſpecially intended, though the former is preſuppoſed, becauſe in point of ſinne, therefore alſo in point of miſery; although there was balme in <hi>Gilead</hi> and a Phyſician there, yet the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rophet com<g ref="char:EOLhyphen"/>plaines that the health of the daughter of his people was not recovered.</p>
+            <p>From which words thus explained, we may obſerve theſe three particulars.</p>
+            <p n="1">1. <hi>That there is balme in Gilead, and a Phyſician there.</hi>
+            </p>
+            <p n="2">2. <hi>That for all that, the health of Gods people for the pre<g ref="char:EOLhyphen"/>ſent may not bee recovered.</hi>
+            </p>
+            <p n="3">3. <hi>That in ſuch a caſe the cauſe hereof is diligently to bee <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nquired after, and moſt ſadly to bee bemoaned and complai<g ref="char:EOLhyphen"/>ned of.</hi>
+            </p>
+            <p>
+               <hi>Is there no balme in Gilead?</hi> as much as if he had ſaid, Yes there is; there is the firſt: The health of the daughter of my people is not recovered, there is the ſecond: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>quare <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gitur;</hi> Why then, O why then! So the Prophet expoſtulates with his people, and mournes over their miſery: there's the third.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct </seg>1</label> The firſt was, <hi>There is balme in Gilead, and a Phyſician there, i. e.</hi> meanes in the Church and amongſt the people of God, ſufficiently, abundantly, able to cure their deadlieſt wounds, and to recover them from deſperateſt miſeries: The meaning of the queſtion, Is there not, being (as we have heard) yes for certaine there is; as in every Countrey there is uſually a medicine for its owne proper diſeaſes, ſo in Gods inheritance there is balme to cure all: and as ſome conceited Phyſicians
+<pb n="5" facs="tcp:130925:6"/> ſay there is a naturall balſom in mans body, ſo for certaine there is a moſt ſoveraigne balme (dropt down from the head) in the body of Chriſt, which can heale all its ſickneſſes and wounds: it being</p>
+            <p>Our Fathers houſe, in which there is bread enough to relieve the pooreſt pined prodigall, <hi>Luke</hi> 15. 17.</p>
+            <p>Gods inheritance, in which all his ſprings lie to refreſh the mo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thirſty fainting creature, <hi>Pſal.</hi> 87. 7.</p>
+            <p>The very <hi>myrothecium</hi> or repoſitory, in which God hath laid up all his moſt ſoveraigne oyles and balſomes, fully able to maintaine and recover his peoples health in all their deadlieſt extremities: ſo that in them all, in the worſt of all, we may ſay, <hi>Yet God is good to Iſrael, Pſal.</hi> 73. 1. and as deſperate as the caſe ſeemes to be, <hi>Yet there is hope in Iſrael concerning this,</hi> 
+               <note place="margin">
+                  <hi>Ezra</hi> 10. 2.</note> or that, or what ever it is, there is hope in Iſrael concerning de<g ref="char:EOLhyphen"/>ſperateſt evills, becauſe balme in <hi>Gilead</hi> for deadlieſt dangers and miſeries.</p>
+            <p>But becauſe the goodneſſe of the Phyſick will be evidenced by the greatneſſe of the cures wrought by it; one of the beſt wayes to prove that there is balme in <hi>Gilead,</hi> and a Phyſician there, will bee to ſhew under ſome generall heads, what great cures have been wrought there.</p>
+            <p n="1">1. Of deepeſt wounds, and moſt violent and malignant diſeaſes; I meane of moſt grievous and deadly dangers and mi<g ref="char:EOLhyphen"/>ſeries; for ſuch in all ages have the Churches miſeries uſed to be: as in pureſt ayres ſometimes accuteſt fevers, ſo pureſt Chur<g ref="char:EOLhyphen"/>ches, and holieſt men, have been wont to conflict with extreameſt miſeries: mans rage will doe what it can to make and enflame the wound, and the old Serpents poyſon would make it incu<g ref="char:EOLhyphen"/>rable. No afflictions like to the Churches perſecutions: <hi>No ſorrow like mine,</hi> ſaid the lamenting Church; yea and adde too, and ſay, <note place="margin">
+                  <hi>Lam.</hi> 1. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> No ſalvation like thine alſo: it hath beene <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>from ſo great a death,</hi> that Gods people have beene delivered; <note place="margin">2 <hi>Cor.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 10.</note> none have beene more deeply wounded, nor any ſo admirably cured as the Spouſe of Chriſt; in the midſt of all theſe deaths (bleſſed be God!) ſhee lives ſtill, and will for ever: there is balme then in <hi>Gilead</hi> that hath healed ſuch deadly wounds and diſeaſes, which the body of Chriſt above all hath laboured un<g ref="char:EOLhyphen"/>der,
+<pb n="6" facs="tcp:130925:7"/> taking out of them the venome of the Serpents ſting, yea the inflamation of Gods wrath, that in the firſt place hath beene the cure of deadlieſt wounds, ſuch as (the Lord knowes) ours now are.</p>
+            <p n="2">2. When there are many of them, even a complication, and as it were a whole ſyſterne of diſeaſes on the body of Chriſt at once: not in one part only, but <hi>totum pro corpore vulnus,</hi> when ſick and ſore all over, as <hi>Iſa.</hi> 1. 5, 6.</p>
+            <p>Nor in one kinde only, but of all ſorts, as <hi>Pineda</hi> labours in <hi>Iobs</hi> maladies to finde out all kindes of diſeaſes. <note place="margin">
+                  <hi>Pineda in Iob</hi> 2.</note>
+            </p>
+            <p>In which caſe the cure is wont to be harder; becauſe as all diſeaſes are contrary to health, ſo one of them often to another; ſo as that which helps the one, may wrong the other, as it ſome<g ref="char:EOLhyphen"/>times fals out when the Liver and Spleen are diſtempered toge<g ref="char:EOLhyphen"/>ther. And yet ſo the body of the Church (alas! of our State and Church at this preſent) conflicts at one time with many, and them contrary miſeries, in time of warre, (and ſuch times our ſinnes have now brought upon us) in truth with all; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, moſt true in this ſenſe, then a troop comes, warre and changes together, <hi>Iob</hi> 10. 17. in this univerſall ſcare-fire the flame is kindled in every corner of the houſe: this generall <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> leaveth no part of us free, we are ill all over, every where, <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>P<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>v.</hi> 5. 11.</note> and almoſt every way; yea and in contrary wayes very mi<g ref="char:EOLhyphen"/>ſerable, as in ſad convulſion fits, one neareſt member pluckt from another, and which is moſt miſerable, ſo, as heale the one and you wound the other. We goe through fire and water, as the Pſalmiſt ſaid, in which caſe that which quencheth the one encreaſeth the other, ſuch an ague and purgatory of hot and <note place="margin">
+                  <hi>Pſal.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 12.</note> cold fits, of various and contrary miſeries the whole land now labours of, and ſinks under. But is there ſuch a medicine as can help both, and heale all? Yes, if you will beleeve <hi>David,</hi> who could ſet his <hi>probatum eſt</hi> to it, who met with as many and croſſe ſad paſſages as the moſt; and yet after all, out of his owne ex<g ref="char:EOLhyphen"/>perience, could ſay, <hi>I ſought,</hi> and <hi>this poore man cryed,</hi> and <hi>then God delivered him from all his feares, and ſaved him out of all his troubles, Pſal.</hi> 34. 4, 6. and ver. 19. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>great and many</hi> (for the word ſignifieth both) <hi>are the afflictions of the righteous, but the Lord delivereth him out of them all:</hi> where there is a
+<pb n="7" facs="tcp:130925:7"/> 
+               <hi>[many]</hi> in the diſeaſe, you ſee there is an <hi>[all]</hi> in the cure, in our God, that which can cure an <hi>all</hi> of ſickneſſes, <hi>Pſal.</hi> 103. 3. in our Lord Ieſus that can heale, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, all manner, as of lighter diſeaſes, ſo of more grievous ſickneſſes. The <note place="margin">
+                  <hi>Matth.</hi> 4. 23.</note> people of God have been reſcued from multitudes of Bulls, <hi>Pſal.</hi> 68. 30. from ſwarmes of angrieſt Bees, <hi>Pſal.</hi> 118. 12. from innumerable evils compaſſing them round about, <hi>Pſal.</hi> 40. 12, 13. have not ſunk, <hi>when deep hath called upon deep, and at the</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 41. 7, 8.</note> 
+               <hi>noiſe of Gods water-spouts, all his waves and billowes have gone over them:</hi> when like a wrackt man toſſed with billows from below, and almoſt drowned at the ſame time with ſhowres and ſpouts of raine from above, when earth ſhakes and heaven thun<g ref="char:EOLhyphen"/>ders, even out of greateſt crowdes of evills and enemies that have been plucking the body of Chriſt apieces, quite contrary wayes hath it yet been delivered; ſuch a <hi>Panacea,</hi> ſuch an All-heale hath God provided for his Church: Sure there is balme in <hi>Gilead,</hi> and a Phyſitian there, that hath cured ſuch varieties and contrarities of diſeaſes.</p>
+            <p n="3">3. And this further in the third place, when grown <hi>Chro<g ref="char:EOLhyphen"/>nicall;</hi> now old ſoares are hardlier healed, and hectick fevers uſually incurable. Ours now begin to grow in yeares, and the maladies of the Church of God in former ages have not only (according to former particulars) been ſore and many, but alſo of long continuance; not only dead, but even dry bones: if meant of the Iewes in <hi>Babylon,</hi> they lay ſeventy years unburied; <note place="margin">
+                  <hi>Deut,</hi> 28. 59, 60.</note> if of the other ten Tribes, it is three thouſand yeares ſince their <note place="margin">
+                  <hi>Ezek.</hi> 37, 1, 2, <hi>&amp;c.</hi>
+               </note> firſt death, now ſo buried in obſcurity and oblivion, that wee cannot tell where they are to be found (which is much longer then our miſeries ſhall continue, though they ſhould prove yet more deadly) and yet theſe, after all this, ſhall live; and there<g ref="char:EOLhyphen"/>fore though for the preſent we be very ſick, yet let not our hearts die; for this is more then <hi>Gileads</hi> balme or Phyſitian, for our bleſſed Saviour as eaſily to raiſe up a dead <hi>Lazarus</hi> when hee ſtinketh, as the Centurions ſervant that is but ready to die; <note place="margin">
+                  <hi>Iohn</hi> 11. 39. <hi>Luke</hi> 7. 1.</note> and make his people glad, not only after dayes of affliction, but even after yeares wherein they have ſeene evill: the Sun of <note place="margin">
+                  <hi>Pſal.</hi> 90. 15. <hi>Mal.</hi> 4. 2.</note> righteouſneſſe ariſing with healing in his wings, as certainly, and it may bee more comfortably, after the longeſt Winters
+<pb n="8" facs="tcp:130925:8"/> night, as on the earlieſt Summers morning: there is balme then in <hi>Gilead,</hi> and a bleſſed Phyſitian there, that can cure ſo grie<g ref="char:EOLhyphen"/>vous, ſo many, ſo contrary, ſo invererate diſeaſes.</p>
+            <p n="4">4. And then when all, upon all the former particulars, for any humane help or skill, is proved deſperate and incurable: and ſo judged,</p>
+            <p>Firſt, eſpecially <hi>by Enemies,</hi> who uſe to think as they would have it, and ſo ante-date as their own deliverance, <hi>Ier.</hi> 28. 1, 2, 3, 4. ſo the Churches deſtruction, before God intends either. So you may over-heare <hi>Davids</hi> enemies whiſpering, that an evill diſeaſe ſo clave to him, that now that he was down, for certaine he would never riſe more; but even then God was both <note place="margin">
+                  <hi>Pſal.</hi> 41. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> Phyſitian and Nurſe to him, making his bed for him when they accounted him bed-rid: thus they ſet the clock too much for<g ref="char:EOLhyphen"/>ward, but it haſtened never the more holy <hi>Davids</hi> ſun-ſet; as in another place, when they conceive that <hi>God hath forſaken him,</hi> and what then but <hi>perſecute and take him, for there is none to deliver him;</hi> even then Faith can look at him, as not farre <note place="margin">
+                  <hi>Pſal.</hi> 71. 11, 12.</note> from him, and making more haſte toward him to help him, then they could to deſtroy him. It is mercy that Gods hand is not tied up, when <hi>Pharaoh</hi> thinks Iſrael is ſhut up, and when he had already ſwallowed them up in his thoughts; then the <note place="margin">
+                  <hi>Exod.</hi> 14. 2. <hi>Exod.</hi> 15 9.</note> good Shepherd plucked the lambe out of his mouth. How farre thoſe black mouthes that have been ſo wide open to blaſpheme God, have already in their thoughts, Leviathan like, quite ſwal<g ref="char:EOLhyphen"/>lowed up his people, I ſay not, but this I may. That it would <note place="margin">
+                  <hi>Iob</hi> 40. 23.</note> be very ſad with us, if our God ſhould not be better to us, then the thoughts and expectations of our enemies are now of us; but let it help to ſtanch the bleeding wound, to remember that God can eaſily heale when the cure is accounted deſperate, eſpe<g ref="char:EOLhyphen"/>cially by enemies.</p>
+            <p>Secondly, commonly <hi>by all</hi> (which our preſent caſe is making haſte to) I will reſtore health (ſaith God) when the common vote was, <hi>This is Zion which no man ſeeketh after;</hi> as a dying man with curtains drawne, whom friends have no hope of, and <note place="margin">
+                  <hi>Ier.</hi> 30. 17.</note> therefore look off from; or rather like a dead man laid aſide <note place="margin">
+                  <hi>Pſal.</hi> 31, 12.</note> out of ſight, and out of minde together, and buried more in ob<g ref="char:EOLhyphen"/>levion then in his grave; when the newes is, <hi>She is dead, why
+<pb n="9" facs="tcp:130925:8"/> trouble yee the maſter?</hi> Then it was that Chriſt anſwered, <hi>Feare not, only believe and ſhee ſhall bee made whole, and ſhe was ſo:</hi> 
+               <note place="margin">
+                  <hi>Luk.</hi> 8. 49. 50.</note> When all is given for loſt by all, then its a fit time for Chriſt to ſhew himſelfe <hi>all in all;</hi> when he can finde no faith <note place="margin">
+                  <hi>Co.</hi> 3. 11. <hi>Luk.</hi> 12. 38.</note> in the earth, he then comes, <hi>Luke</hi> 18. 8. in the ſecond or third watch of the night; good husbands that riſe early and goe to bed late, may not bee gone to bed in the firſt watch, and they may bee up againe betimes in the morning by the fourth, ſo that in both thoſe, the Maſter may come, and happily finde them waking, but by the ſecond they uſe to be gone to bed, and not to bee riſen by the third, and therefore if hee come in either of them, hee is likely to finde moſt (if not all) ſleeping; and yet then our Lord commeth, when none looked for him; then heales, when the cure is accounted deſperate by all,</p>
+            <p n="3">3 Yea, even <hi>by the godly themſelves,</hi> (which is worſt of all) whoſe faith ſhould not faile them, and yet when it doth, Gods faithfulneſſe doth not: the ſick mans heart is ready to die before hee doth; we are cut off for our parts, ſaid they, <hi>Ezek.</hi> 37. 11. But the skilfull Chirurgion often heales that legge or arme which the deſpairing patient thinks muſt of neceſſity bee cut off: Thus God upholds <hi>David</hi> with his hand, when hee himſelfe thinks, <hi>hee ſhall one of thoſe dayes fall by the</hi> 
+               <note place="margin">1 <hi>Sam.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>hand of</hi> Saul: When <hi>Aſaphs</hi> heart failes as well as his fleſh; God is then <hi>The rock of his heart and his portion for ever:</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 73. 26.</note> When the Diſciples as well as the people are at a ſtand for the cure of him that had been ſo long poſſeſſed with ſo many Devils, then bring him to me, ſaith our Saviour: The caſe is in a manner <note place="margin">
+                  <hi>Matth.</hi> 17. 17.</note> ours, many evill Spirits have too long poſſeſſed us, the Diſciples and Servants of <hi>Ieſus Chriſt</hi> have faſted and prayed, and done what they could towards an ejection, but it will not yet be; ſo that wee begin to grow faint and weary, and to lay the buſi<g ref="char:EOLhyphen"/>neſſe out of our hands; but before wee doe, it would bee well if we would remember that its now fitteſt to bring it to Chriſt, to ſee whether hee can doe any thing, when our ve<g ref="char:EOLhyphen"/>ry faith can believe but a little, and our ſelves doe juſt no<g ref="char:EOLhyphen"/>thing: Sometimes indeed our Saviour would ſay to them that beſought him for their cure, <hi>According to your faith bee it unto</hi> 
+               <note place="margin">
+                  <hi>Mat.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 29.</note> 
+               <hi>you:</hi> but if our faith ſhould alwayes be the meaſure of mercy
+<pb n="10" facs="tcp:130925:9"/> to be beſtowed on us, the Lord knowes it would be too often very ill with us; a weak faith would leave but a faint heart, if God were not able to doe oft-times, nay at this time, ex<g ref="char:EOLhyphen"/>ceedingly above all we can ask or think, little ſhould we be <note place="margin">
+                  <hi>Epheſ.</hi> 3. 20.</note> able to know or think what to doe: But (bleſſed be God) a ſhort hand can receive more then it can graſp, and the weak palſie hand of our faith, may in ſome meaſure apprehend that ſalvati<g ref="char:EOLhyphen"/>on and mercy which it cannot fully comprehend; its our hap<g ref="char:EOLhyphen"/>pineſſe, not that our veſſell is ſo little, but that the fountaine is ſo full that wee cannot comprehend the fulneſſe of it, that our thoughts and hopes are too ſhort ſighted and handed to reach to all that ſalvation, which the out-ſtretched arme of Ieſus Chriſt can reach to us, who is, and ever well be, <hi>The wonderfull, Coun<g ref="char:EOLhyphen"/>ſeller,</hi> 
+               <note place="margin">
+                  <hi>Iſa.</hi> 9. 6.</note> 
+               <hi>the mighty, (the Almighty) God,</hi> as he is the Prince of his peoples peace, and therefore it is, that he uſeth to work theſe wonderfull cures for his ſick Spouſe, when according to former particulars, her diſeaſes and wounds, have been, firſt great, ſe<g ref="char:EOLhyphen"/>condly many, thirdly of ſuch long continuance, that fourthly in the judgment of all they ſeeme to become deſperate; So that enemies hope, and the faithfull feare, and all think they are now proved incurable; but although ſome diſeaſes are ſaid to be other Phyſicians ſhames, yet none ever ſhall be Chriſts; for all, for the worſt of all, there is balme in Gilead, and a Phyſician there: And thus much for the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that it is ſo.</p>
+            <p>But for the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, if you ask, what this balme is, and who is this Phyſician?</p>
+            <p n="1">1 I anſwer, Firſt, <hi>God and his preſence,</hi> ſo the parallel queſtion, verſe 19. hath it, <hi>is it not the Lord in Zion?</hi> anſwerable to this here, <hi>is there no balme in Gilead, &amp;c.</hi> God and his preſence, Chriſt and his blood, the holy Ghoſt with his Grace and peace, theſe are in <hi>Gilead, i. e.</hi> in the Church of God, and theſe are moſt ſoveraigne balmes, and moſt bleſſed Phyſicians there.</p>
+            <p>God amongſt many other his glorious appellations in Scrip<g ref="char:EOLhyphen"/>ture is pleaſed to make, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the Lord that healeth thee,</hi> 
+               <note place="margin">
+                  <hi>Exod.</hi> 15. 26.</note> one of thoſe ſweet names which he both is, and will be known to his people by.</p>
+            <p>The Lord Ieſus is our <hi>Sunne of righteouſneſſe,</hi> and as the Heathens <hi>Ph<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bus</hi> was their Phyſician, ſo hee is <note place="margin">
+                  <hi>Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 4. 23.</note>
+               <pb n="11" facs="tcp:130925:9"/> ours, <hi>for hee ariſeth with healing in his wings.</hi>
+            </p>
+            <p>The giving of the holy Ghoſt alſo is expreſſed by anointing <note place="margin">
+                  <hi>Iſa.</hi> 61. 1. 2.</note> with ſuch ſoveraigne oyle as can heale <hi>broken hearts;</hi> and that's a greater cure then to cure the outward wounds of broken States and Kingdomes.</p>
+            <p>So that the ſaving preſence of God in Chriſt cannot but bring with it great ſalvation: <hi>Lord if thou hadst been here</hi> (ſaid <hi>Mar<g ref="char:EOLhyphen"/>tha</hi> to our Saviour) <hi>my brother had not died:</hi> O were he but here <note place="margin">
+                  <hi>Iohn.</hi> 11. 21.</note> amongſt us as hee might be, and as his ſervants deſire he would be, we ſhould not be ſo much as ſick, though we now lie a dying; a time is haſtning when the new <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eruſalems</hi> name ſhall bee <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Lord is there and then (I reade) there will be no <note place="margin">
+                  <hi>Ezek.</hi> 48. 35. <hi>Revel.</hi> 21. 4.</note> paine nor ſickneſſe there, but a tree of life in the midſt of the ſtreet of it, <hi>whoſe very leaves all heale the Nations:</hi> for if the pre<g ref="char:EOLhyphen"/>ſence <note place="margin">
+                  <hi>Revel.</hi> 22. 1, 2.</note> of a deare friend oft-times doth very much refreſh the very ſick man, How much more will the powerfull and gracious pre<g ref="char:EOLhyphen"/>ſence of a more deare God in Ieſus Chriſt put a new life into a dying either ſoule or people? What arme ſo ſtrong as to make ſuch a wound, as that the Almighty arme of God cannot binde it up? or what malice ſo venomous ſo to poyſon it, as the mercy of our God, and the precious blood of our Saviour (ſprinkled upon whole Nations as well as upon particular perſons, <hi>Iſa.</hi> 52. 15.) can<g ref="char:EOLhyphen"/>not cure it? be his blood ever our balme, were I as ſick and as dead<g ref="char:EOLhyphen"/>ly wounded as that poore man in the Goſpel, yet ſome drops of <note place="margin">
+                  <hi>Luke</hi> 10. 33. 34.</note> this good Samaritanes oyle would make me well againe: ſo ſo<g ref="char:EOLhyphen"/>veraignly healing is Gods preſence, and his Sonnes blood.</p>
+            <p>And for his Spirits grace, and peace, ſome Interpreters upon <note place="margin">Hieronym. &amp; Deodat. in lo<g ref="char:EOLhyphen"/>cum.</note> this Text underſtand by balme here <hi>Repentance,</hi> which though it may ſeeme as vineger in the wound to make it ſmart and anger it, yet could we rightly apply it, and let it have its kindly and per<g ref="char:EOLhyphen"/>fect work before it had done, it would moſt kindly and fully heale it; for if our ſinnes be our deadlieſt wounds then this grace of the Spirit is the proper <hi>Recipe</hi> for our cure, 2 <hi>Chron.</hi> 7. 14. and if our unquiet heart-burnings and contentions make the inflamation in theſe angry ſoares, (as the Lord know's they doe) how would the peace of God coole all this heat, and take up the controverſie? <hi>Col.</hi> 3. 15. Gods peace would help us better to keep the Kings; had <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> we more of the one in our hearts, we ſhould have more of the other
+<pb n="12" facs="tcp:130925:10"/> in the Kingdome; in theſe ſmoothered glowings, nay out-breaking flames, there is too much of the fire of hell, which would bee put out (as the fire is by the Sun) if this <hi>alma lux</hi> this bleſſed light of heaven ſhone more upon it.</p>
+            <p n="2">2 But next under God, <hi>good Magiſtrates and their wholſome adminiſtrations</hi> are another part of <hi>Gileads</hi> balme and Chirurgery, and ſo it followes in that forementioned nineteenth verſe, <hi>Is not the Lord in Zion, is not her King in her?</hi> Her King under her God was her chiefe Phyſician, and of five of them in <hi>Ieremiahs</hi> time, one was <hi>Ioſiah,</hi> and it may be when he ſpake theſe very words; who, had not the body of that ſinne-ſick people been paſt cure, by that bleſſed Reformation which he wrought he might have ſaid faire for a perfect recovery. And ſo for all other lawfull Magiſtrates in their lawfull adminiſtrations, as they are fathers, ſo they are alſo the Phyſicians of their people; <hi>Galen</hi> accounted it the great hap<g ref="char:EOLhyphen"/>pineſſe of his times, that their Emperours gave the people their <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Commentario <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Theriac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Theriaca</hi> with their own hands, ſo as that their Palaces were reſor<g ref="char:EOLhyphen"/>ted to as to the ſick mens Hoſpitals; and although all Monarches now cure not the Kings evil; yet all both Kings and Magiſtrates ſhould, as occaſion and need ſhal be have both skill and will to cure greater and more dangerous diſeaſes in the Body Politick; and therefore you may obſerve, that whereas <hi>Iſa.</hi> 3. v. 6. you read of ſome laying hold of their brother, and deſiring him that hee would be their <hi>Ruler;</hi> in the ſeventh verſe, he refuſeth and ſaith, he will not be an <hi>Healer:</hi> It ſeemes therefore that in thoſe times although Rulers and Healers were two words, yet they made ac<g ref="char:EOLhyphen"/>count that they ſhould bee and doe one and the ſame thing: and ſo indeed if God be with them, they both are and doe oc<g ref="char:EOLhyphen"/>cordingly.</p>
+            <p>Their wholſome Lawes are their fit <hi>Preſcripts</hi> and <hi>Re<g ref="char:EOLhyphen"/>cipes.</hi>
+            </p>
+            <p>Their <hi>incouraging</hi> of the good with favours and re<g ref="char:EOLhyphen"/>wards, their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, their <hi>Malagmata</hi> and Lenitives; <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> 
+               <hi>Gileads</hi> gentle balmes.</p>
+            <p>Their <hi>diſcouraging</hi> and puniſhing the evill their ſharp, but ne<g ref="char:EOLhyphen"/>ceſſary, Corraſives; even their cutting off the incorrigible, is but the carefull Chirurgeons cutting off a rotten member that is in<g ref="char:EOLhyphen"/>curable; ſo that even whileſt they wound, they cure, and ſo are
+<pb n="13" facs="tcp:130925:10"/> not (as <hi>Chryſoſtom</hi> ſaid of <hi>Herod,</hi> that he was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <note place="margin">
+                  <hi>Tom.</hi> 4. <hi>Serm.</hi> 115. <hi>in Act.</hi>
+               </note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) executioners but Phyſicians ſtill.</p>
+            <p n="3">3. Thirdly, <hi>Gods Miniſters and Ordinances</hi> come under the notion of <hi>Gileads</hi> balme and Phyſicians: the Prophet in this ex<g ref="char:EOLhyphen"/>preſſion (as Interpreters obſerve) having reference to <hi>Elijah</hi> the Prophet (and ſome adde other Prophets alſo) who had their abode, <note place="margin">C. a Lapide</note> yea and a Schoole or Colledge of their young Prophets there; and therefore it might ſeeme as ſtrange that there ſhould bee no healing from <hi>Gilead</hi> where ſuch Prophets dwelt, as to have no balme from <hi>Gilead,</hi> where it moſt of all abounded: Indeed <hi>Elijahs</hi> miniſtry (like his garment) was a little more rough, and in that reſpect the leſſe reſembling <hi>Gileads</hi> gentler balme; but yet hee <note place="margin">2 <hi>Kings</hi> 1. 8.</note> then (as ſome Miniſters accounted more rough now) was ſent to be the great Reformer, and ſo the great Phyſician and recoverer of that ſinfull ſick people. And ſo</p>
+            <p>In the Old Teſtament throughout, what were all the Prophets of God, but as Phyſicians or Chirurgeons ſent from God in their miniſtry to cleanſe ſowleſt ſores? to eat proud fleſh out of them with corraſives, and then to poure gentle healing oyle into bleed<g ref="char:EOLhyphen"/>ing wounds?</p>
+            <p>And in the New Teſtament, what were the Apoſtles, and thoſe other firſt Preachers of the Goſpel, but Phyſicians too, ſent into <note place="margin">
+                  <hi>Mark</hi> 6. 13. <hi>Iames</hi> 5. 14.</note> the ſick world with oyle to anoint their bodies; but eſpecially with the Sun of righteouſneſſe ariſing in their miniſtry with hea<g ref="char:EOLhyphen"/>ling to their ſoules, yea and their outward eſtates alſo; for <hi>valles florent cum Evangelio;</hi> there was <hi>an abundance of the bleſſing of the Goſpel of Chriſt, Rom.</hi> 15. 29. as manifeſtly appeared in the out<g ref="char:EOLhyphen"/>ward flouriſh and proſperity of thoſe Eaſtern Churches and Coun<g ref="char:EOLhyphen"/>treys, when that morning Sun-aroſe upon them in the Eaſt, which is now ſet in a cloud of ſlavery and miſery, ſince it hath left them, and is come, and is yet further going weſt-ward. In thoſe for<g ref="char:EOLhyphen"/>mer times under the Law, you ſhall obſerve, that when the <hi>Ark</hi> went before, it led them ſafe through an over-flowing <hi>Iordan;</hi> that <note place="margin">
+                  <hi>Ioſh.</hi> 3. 11, 13, 14 &amp;c. <hi>Pſal.</hi> 128. 5. 134. 3.</note> God was wont <hi>to bleſſe them out of Zion;</hi> that as long as the anoin<g ref="char:EOLhyphen"/>ting oyle was kept holy in the Sanctuary, it proved an healing oile to the whole body of that people, the State ever continuing ſafe, whilſt Gods Ordinances were kept pure; as on the contrary, it was not till Gods Temple was wholly defiled, and his ſervants and
+<pb n="14" facs="tcp:130925:11"/> Prophets horribly abuſed, that their City and Kingdom were to<g ref="char:EOLhyphen"/>tally and finally ruined, and their cure came to be deſperate, to an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſo that there was no remedy, 2 <hi>Chron.</hi> 36. 16.</p>
+            <p>And for all after ages under the Goſpel (and that in all places and Countreys) the <hi>Temple</hi> hath ever helped to ſhoare up the <hi>Town-houſe,</hi> the Church the State, which have been like <hi>Hypo<g ref="char:EOLhyphen"/>crates</hi> his twins, ſmiling and weeping, living and dying together: moſt of the deadlieſt wounds that the Church, nay, that the world hath gotten, have been from God in the quarrell of his Temple; and as poyſonous Doctrines in the Church have ever proved in<g ref="char:EOLhyphen"/>venomed wounds to the Common-wealth, and bad Miniſters in the one, worſt plagues to the other; ſo on the other ſide, the holy Ordinances of God have been found to be ſoveraigne balmes and bleſſings to each wholſome Ordinance of man, even ſharpeſt Church-cenſures moſt wholſome State-medicines, and ableſt godly Miniſters amongſt beſt Phyſicians in their right applying and diſpenſing of them accordingly.</p>
+            <p n="4">4. Nay, in the laſt place, leave we not out <hi>the leaſt and meaneſt of Gods Servants;</hi> for balme (wee heard) dropped from a lower ſhrub, and the health of the whole body of Chriſt may have much contributed to it by the loweſt and weakeſt member of it; the little finger in ſome poſture of the hand, may reach that which the great finger cannot, and the loweſt member of Chriſt may be fitteſt to doe ſome good office in this kinde, which the higheſt cannot ſo well ſtoop to; at leaſt (I am ſure) the little childe may reach its ſick mother her phyſick, nay the pooreſt childe of God (in the ſenſe wee now ſpeak of) may help to make it too; <hi>The poore wiſe man ſaved the City,</hi> and the poore Chriſtian, if hee <note place="margin">
+                  <hi>Eccleſ.</hi> 9. 15.</note> be wiſe, may help to heale a whole Nation: here (pardon my homelineſſe, nor take it as a light expreſſion in a ſad day) we are all either fooles or Phyſicians, for certainly he is a foole or worſe that knoweth not how to ſay or doe ſomething towards the hea<g ref="char:EOLhyphen"/>ling o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the body of Chriſt; <hi>The juſt deliver the Iſland,</hi> the Lord grant they may deliver ours. <note place="margin">
+                  <hi>Iob</hi> 23. 30.</note>
+            </p>
+            <p>Their ſeverall graces, according to ſeverall occaſions, are in this kinde very inſtrumentall and effectuall; they are ſaving graces every way, accompanying their owne eternall ſalvation, and much advancing the temporall ſalvation both of themſelves and others: <note place="margin">
+                  <hi>Heb.</hi> 6. 9, 10.</note>
+               <pb n="15" facs="tcp:130925:11"/> Whilſt Faith in the tempeſt gets to the rock, and Hope caſts an<g ref="char:EOLhyphen"/>chor, Love pities, and Chriſtian courage ventures, Meekneſſe angreth not the ſore, but Patience quietly endures the ſearching, and as quietly waites on God for healing.</p>
+            <p>Their very preſence is both antidote to prevent a diſeaſe, and an healing medicine to keep it, when it is come from proving mortall; God could not deſtroy <hi>Sodom,</hi> as long as <hi>Lot</hi> was in it; <note place="margin">
+                  <hi>Gen.</hi> 19. 22.</note> and <hi>Paul</hi> being in the ſhip, though he did not prevent the ſtorme or ſave the ſhip, yet he ſaved the lives of all them that failed with <note place="margin">
+                  <hi>Acts</hi> 27. 24.</note> him in it.</p>
+            <p>Their prayers eſpecially uſe in this caſe to be moſt ſoveraignly healing, 2 <hi>Chron.</hi> 7. 14. <hi>The prayer of faith ſaveth the ſick,</hi> both man and Kingdom, ſuch ſtrong breathings, like ſtrong windes, <note place="margin">
+                  <hi>Iames</hi> 5. 15.</note> whilſt they are up, keep great ſhowres from falling, can blow away the moſt black and bloody cloud, yea even blow the moſt ſmar<g ref="char:EOLhyphen"/>ting wound whole; ſuch ſweet lips are ever dropping balme into the wounds of the Church, and ſuch of all other may trulieſt come under that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that healing tongue, which <hi>Solomon</hi> 
+               <note place="margin">
+                  <hi>Prov.</hi> 15. 4.</note> ſaith is <hi>a t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee of life;</hi> and it would ſeeme not more ſad then ſtrange to ſee that <hi>Eden</hi> where many ſuch trees grow to become a wil<g ref="char:EOLhyphen"/>derneſſe: As long as I ſhall ſee God maintaining and encreaſing the number of his gracious praying ſervants in any place or people, whatſoever or how deadly ſoever their wounds otherwiſe may be, I dare yet ſay, that ſo long there is hope in Iſrael, there is ſome balme left in that Gilead, and ſo many good Phyſicians there.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> Which (in the application of the point thus proved and clea<g ref="char:EOLhyphen"/>red) may in the firſt place ſerve for a cordiall to the people of God, now in theſe our ſad faintings, and diſtill ſome drops at leaſt of this balme of Gilead into our now bleeding wounds, which with our Prophet <hi>cap.</hi> 15. 18. we may perhaps begin to feare are grown halfe incurable. The ſad face of things, like the Phyſicians <hi>facies Hypocratica</hi> of a dying man, I confeſſe looks very ghaſtly, and the ſymptoms <hi>tantum non</hi> deadly; but pine not away ye ſons of <hi>Iacob, there is corne in Egypt,</hi> die not quite away deare-bleed<g ref="char:EOLhyphen"/>ing <note place="margin">A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Gen.</hi> 42 1, 2.</note> hearts, you Iſrael of God, there is balme in Gilead wee have heard, there is yet a Phyſician there.</p>
+            <p>For according to former particulars.</p>
+            <p>Is not the Lord in <hi>Zion?</hi> is not God where he was, in heaven
+<pb n="14" facs="tcp:130925:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:130925:12"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:130925:13"/> and in his Church as well now as ever? <hi>Yet thou O Lord art in the midſt of us,</hi> could our Prophet ſay in that ſick houre of theirs then; <note place="margin">
+                  <hi>Ier.</hi> 14. 9.</note> and Lord thou art not quite gone from us, may we thankfully ſay now in ours. Indeed (as you there have it) it is as <hi>a wayfaring</hi> 
+               <note place="margin">
+                  <hi>Ver.</hi> 8.</note> 
+               <hi>man</hi> comming and going, now in this diſcovery and deliverance comming to us in mercy, and ere long being driven away by our unkindneſſe, turning the back on us, and ſeeming to leave us in diſpleaſure; and as a mighty man, (in the mighty works that our eyes have ſeene) yet ſtanding ſo amazed and aſtoniſhed at our ſinnes, as that he cannot ſave; and yet as a moſt loving Phyſician, when he cannot as yet cure us, yet he cannot leave us.</p>
+            <p>His diſcovering and preventing many direfull plots, ſpeaks out the wiſdome of our diſcerning Phyſician in his prognoſticks.</p>
+            <p>His dealing with us in a more thorow way, chuſing rather to pirch us, then not to preſſe corruption out of us; declares his faith<g ref="char:EOLhyphen"/>fulneſſe, that he meaneth rather to heale then only to skin the ſore, and rather to profit then to pleaſe his diſtempered patients.</p>
+            <p>But the many intermixt paſſages of ſweeteſt mercy proclaime the tendereſt bowels of his compaſſion and pity; <hi>he hath weighed the path of the just,</hi> every doſe to the leaſt ſcruple, and hath put in <note place="margin">
+                  <hi>Iſa.</hi> 26. 7.</note> no more bitterneſſe then needs muſt to make it medicinable; it hath not been all Aloes and Wormwood, at worſt a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that we as yet have taſted of.</p>
+            <p>Lay faſt hold then, ſeeing that our God, our beſt Phyſician hath not quite left us: ſigh we and cry aloud, <hi>Ieſus thou Son of David have mercy on us,</hi> ſeeing he our good Samaritan is not as yet quite <note place="margin">
+                  <hi>Matth.</hi> 9. 27.</note> paſt by us; Hath the eye of none your faith ſeen him come neare to us, as once to Ieruſalem, and weeping over us with an <hi>O Ieruſalem, Ieruſalem,</hi> O England, England, <hi>if thou hadſt known, even thou at</hi> 
+               <note place="margin">
+                  <hi>Luke</hi> 19. 41, 42.</note> 
+               <hi>leaſt in this thy day, &amp;c.</hi> Have none of you in his anſwer to your prayers, overheard him ſaying to your hearts, as once to him <hi>Mat.</hi> 8. 7. <hi>I will come and heale him?</hi> For certaine, more of his blood hath been ſprinkled, and more of his ſpirit poured out upon this Nation of late then formerly, and doth not all this make out ſome of Gileads balme, and ſay plainly that there is yet <hi>a Phyſician</hi> here? <hi>is not the Lord in Zion?</hi> and is not her King in her? the Lord re<g ref="char:EOLhyphen"/>ſtore ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to us in an healing way: but doth not the Colledge of our State-Phyſicians conſult, and our Miniſters preach, and our
+<pb n="17" facs="tcp:130925:13"/> people pray, that Ordinances of both Religion and Iuſtice may be applied for the cure of a ſick Church and State? and is all this balme only to enbalme a ſpent body of a poore people that muſt needs die? and are all theſe Phyſicians met only as <hi>Mourners</hi> to follow the hearſe, and to accompany our deare Mother that cannot live, to the grave? Did our mercifull Saviour pity the poore widow when he ſaw her following of her dead ſonne to the buriall? and <note place="margin">
+                  <hi>Luke</hi> 7. 12, 13.</note> hath he no bowels (think you) left to commiſerate ſo many ſorrow<g ref="char:EOLhyphen"/>full ſonnes, that are ready with their ſighes and teares to attend up<g ref="char:EOLhyphen"/>on a deare mothers funerall? nay though our ſleepy <hi>Eutychus</hi> ſhould fall yet lower from the third loft, and be taken up for dead; yet <note place="margin">
+                  <hi>Acts</hi> 20. 9, 10.</note> trouble we not our ſelves too much, ſeeing there is yet ſome life in him, <hi>&amp; dum anima eſt, spes eſt,</hi> as long as there is any the leaſt life in the buſineſſe, ſo long at leaſt let there be ſome hope kept alive in our hearts, and let us never wholly deſpaire of the cure, as long as God declares himſelfe willing to be the Phyſician. <hi>O have faith</hi> 
+               <note place="margin">
+                  <hi>Mark</hi> 11. 22.</note> 
+               <hi>in God,</hi> doe him now the honour to truſt him, when the caſe ſeemeth to be deſperate; nay, let the deſperateneſſe of the cure prove an handhold for our faith in prayer to faſten on, the more earneſtly and confidently to ſollicite God for his owne greater and only praiſe, now to undertake ſuch a cure, as all elſe in a manner give over as deſperate: And as dying <hi>Iacob</hi> at the newes of his ſonne <hi>Ioſeph</hi> comming to him, <hi>ſtrengthened himſelfe, and ſate up on his bed,</hi> ſo now when wee are fainting away upon this bed of our lan<g ref="char:EOLhyphen"/>guiſhing, <note place="margin">
+                  <hi>Gen.</hi> 48. 2.</note> let us by faith lift up our hearts at the good newes, that as deadly as our diſeaſe in it ſelfe is, <hi>yet there is balme in Gilead, and a Phyſician there.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> But as this is ground of comfort, ſo let it be of duty in theſe two following particulars; and let it be our care,</p>
+            <p>Firſt, that all ſuch as (according to former particulars) in their <note place="margin">1 <hi>Duty</hi>
+               </note> place and office are Gileads Phyſicians, do now, if ever, ſhew them<g ref="char:EOLhyphen"/>ſelves ſuch.</p>
+            <p>Deare Chriſtians, I ſpeak to the meaneſt of you, for even you hath God honoured (if you will) to have your ſhare in this bleſſed work: meane and obſcure men and women have oftentimes done great cures, which great Artiſts have given over; and therefore do you now ſet in, and put forth your ſelves to the utmoſt, and ſo yet ſomething may be done towards this our preſent cure, which ſome
+<pb n="18" facs="tcp:130925:14"/> of greater power and skill have laid aſide as deſperate. If there<g ref="char:EOLhyphen"/>fore you have any oyle in your veſſels, any leaſt meaſure of that <hi>Spirit of anoynting,</hi> let it now appeare, it could never have been <note place="margin">1 <hi>Ioh.</hi> 2. 27:</note> in a more needfull and fit time, if now, it will bee like a <hi>Jo<g ref="char:EOLhyphen"/>ſephs</hi> opening of his ſtore-houſes in a famine, when all faint, <note place="margin">
+                  <hi>Gen.</hi> 41. 56. <hi>Luk.</hi> 10. 34.</note> a good Samaritans pouring of oyle into the wounds of the half dead man; and therefore break, O let every one of us break his Alabaſter box before the Lord this day, our hearts (I mean) that the precious oyntments of his graces may flow forth; wee cannot think how fragrant and pleaſing they would be in Gods noſtrils, and how ſoveraignly healing to a poore bleeding, dying Kingdom. I therefore earneſtly beg your healing prayers. I ſolli<g ref="char:EOLhyphen"/>cite all your ſaving graces, your love, wiſdome, Chriſtian cou<g ref="char:EOLhyphen"/>rage, and waſh your repentance this day with your teares to waſh your wounds, and your faith in the blood of Chriſt to heat them: And the rather, becauſe although you may (with <hi>Lot)</hi> in a generall confuſion fare the worſe for ill neighbours, <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> yet I fear me, (ſeeing the danger lyeth heavieſt on you) that you are wounded, eſpecially for your own ſinnes; <hi>For the tranſgreſ<g ref="char:EOLhyphen"/>ſion</hi> 
+               <note place="margin">
+                  <hi>Micab.</hi> 1. 5.</note> 
+               <hi>of Iacob is all this,</hi> God not uſing to viſit the ſinnes of the wicked upon his own children, if they have had no hand in them; and therefore, Phyſician heale thy ſelfe, take a courſe by ſelfe<g ref="char:EOLhyphen"/>humiliation and reformation firſt to cure your ſelves, if ever in a right method of Phyſick you would heale others.</p>
+            <p>Next you faithfull Miniſters of Ieſus Chriſt, whom God hath appointed to ſet in joynt diſtreſſed conſciences, lend, O doe you <note place="margin">
+                  <hi>Gal.</hi> 6. 1.</note> eſpecially lend, <hi>medicam manum,</hi> and that a tender gentle one in your way, to binde up the breaches of theſe diſtracted Churches and Kingdomes: it was the Prieſts office in the Law both to view the plague and heale it; let not therefore both Levite and Prieſt when the wounded man lyeth bleeding and dying, paſſe by. <hi>Elijah,</hi> 
+               <note place="margin">
+                  <hi>Leuit</hi> 13 &amp; 14. <hi>Luk.</hi> 10. 31. 32.</note> 
+               <hi>Iehoiada, Ezra,</hi> did much in this kinde in their times, let us (with the help of God) doe ſomething now in ours; that <hi>Elijah</hi> may yet dwell in <hi>Gilead,</hi> and yet and yet, and ever; (for our parts) there may be, not poyſon (as the common complaint is) but <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in Gilead, and we healing Phyſicians there.</p>
+            <p>But eſpecially to you Noble Worthies, (who next under our God and our King, are our <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> our chiefe Phyſicians, under
+<pb n="19" facs="tcp:130925:14"/> whoſe hand this deſperate cure long hath been, and yet is) as hee ſaid to <hi>Ezra,</hi> doth this appertaine, and therefore give leave to <note place="margin">
+                  <hi>Ezra</hi> 10.4.</note> one of the unworthieſt Servants of Chriſt, who can doe little more towards the cure, then to call upon you, who through God may doe much, to beſeech you to bee yet, and ever your ſelves, <hi>i. e.</hi> healing Phyſicians to a very ſick Church and State; now your ſelves more then ever, becauſe never ſo much need as now.</p>
+            <p>Be not therefore wearied out with your long attendance on ſo hard a cure; the more indeed hath been your paines and patience, but the more withall your patients need: Some good drugs full of Spirit (I confeſſe) in a leſſe time will evaporate, but I pray you remember, <hi>Gileads</hi> balme uſeth to continue ſoveraigne for a long time; <hi>Be not weary,</hi> therefore, <hi>of well doing, ſo, ſo in due time,</hi> what ever becomes of us <hi>you will reape if you faint not.</hi> 
+               <note place="margin">
+                  <hi>Gal.</hi> 6. 9.</note>
+            </p>
+            <p>No nor (I beſeech you) be beat out with the unrulineſſe and frowardneſſe; yea, or raving rage of a diſtempered patient and peo<g ref="char:EOLhyphen"/>ple; they (it may be) will be ready to ſay, you are <hi>Phyſicians of no value,</hi> and ſo deſpiſe you, nay that the remedy is worſe then <note place="margin">
+                  <hi>Iob</hi> 13. 4.</note> the diſeaſe, and ſo hate and oppoſe you; but notwithſtanding this, be you yet like,</p>
+            <p n="1">1 <hi>Your God,</hi> who is kinde to the unkinde, knowes how to heale an angry <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, looks upon <hi>Ephraim</hi> and heales him, when he went <note place="margin">
+                  <hi>Luk.</hi> 6. 35. <hi>Iſa.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7. 17. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> on frowardly in an evill way: Can not you remember that he hath ſometimes done more for you, when you have been more froward towards him, then others are now againſt you, though never ſo engaged to you, then you are to his people? in this therefore, be like your God, <hi>Luke</hi> 6. 36.</p>
+            <p n="2">2 Nay, like <hi>your ſelves:</hi> now you are State-Phyſicians, and what then, though the diſtempered diſtracted Patient rage and rave, ſpit and ſtrike at his Phyſician that would cure him? if hee be wiſe, think whether it will move more anger or pity in him, for all that <hi>medicinam parat, non vindictam:</hi> be pleaſed therefore ſtill, <note place="margin">
+                  <hi>Bernard Serm.</hi> 25. <hi>in Cantic.</hi>
+               </note> like ſuch a Phyſician, to goe on with your work, and labour ra<g ref="char:EOLhyphen"/>ther to heale then to humour a diſtempered Patient: So how<g ref="char:EOLhyphen"/>ever, your reward will be with God. But if he pleaſe further to bleſſe your endeavours, when your ſick Patient ſhall once recover of his diſeaſe, he will be recovered of that phrenſie alſo, and will then thank you, and poſterity will bleſſe you: Meane while let
+<pb n="20" facs="tcp:130925:15"/> this ſatisfie you, that to doe well, and heare ill, is no leſſe then a <note place="margin">Benè agere &amp; malè audire re<g ref="char:EOLhyphen"/>gium eſt.</note> Royalty; and withall remember, that the great Phyſician of your ſoules could not effect that cure without being ill thought and ſpoken of, and dealt with; hee met with that quip [Phyſician heale thy ſelfe] in his life and yet he went on to heale them, and <note place="margin">
+                  <hi>Luke</hi> 4. 23.</note> when in his death he made a playſter for them that wounded him to the heart with his own blood (enough to have moved pity and love) they revile him, with that bitter taunt, more ſowre then the vinegar they gave him to drink, <hi>He ſaved others, himſelfe he cannot ſave;</hi> and yet when they thus poured vinegar into his wounds, he <note place="margin">
+                  <hi>Matth.</hi> 27. 42.</note> dropped balm into theirs: Did it not drop from his lips, when he di<g ref="char:EOLhyphen"/>ed with thoſe gracious words in his mouth, <hi>Father forgive them for they know not what they do?</hi> This did our good Samaritane, and let <note place="margin">
+                  <hi>Luk.</hi> 23. 34.</note> me ſay, what he did upon that occaſion, <hi>Goe you, and doe likewiſe;</hi> 
+               <note place="margin">
+                  <hi>Luk.</hi> 10. 37.</note> Your forwardneſſe herein (I hope) needs not a ſpurre, and there<g ref="char:EOLhyphen"/>fore I give but a light touch or two, for the quickining of your hearts, and ſtrengthening your hands in God; pleaſe to conſider but theſe three particulars:</p>
+            <p n="1">1 <hi>The caſe is very ſad,</hi> and the cure, without Gods great bleſ<g ref="char:EOLhyphen"/>ſing upon your cure, in all outward probability is likely to prove deſperate: for (I beſeech you) what doe you ſee now before you? a <hi>Lazarus</hi> lying at your doore full of ſores? I believe were all the petitions and complaints conſidered, that ſince your firſt meeting, have from all parts come crowding to your Parliament doore, as ſo many ſad letters from ſick patients to their Phyſician; the whole Kingdom would ſeeme to be no better then a common <hi>Lazary;</hi> But what ſee you? a man going down from Ieruſalem to Iericho, fallen amongſt theeves, ſtript, and wounded, and left halfe dead, with ſo much life only as might help him to ſee, and ſo to encreaſe his miſery: I ſay unto you, more and worſe then ſo, <hi>Semineces artus,</hi> the trembling halfe-dead ſinewes, and arteries <note place="margin">Brugenſis.</note> of three poor dying Kingdoms miſerably torne aſunder, at home a rent Church, a divided Kingdom, a moſt ſad face of things looks out every where, <hi>&amp; plurima mortis imago;</hi> but yet looking up with a long look to you, as he in the Goſpel to Chriſt, with teares in its eyes, and his words in its mouth, <hi>If you can doe any thing, have compaſſion on us and help us:</hi> So many bleeding gaping wounds be<g ref="char:EOLhyphen"/>ing <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 9. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> as ſo many wide opened mouthes, crying aloud for your com<g ref="char:EOLhyphen"/>paſſion
+<pb n="21" facs="tcp:130925:15"/> and mercy; we heard in the beginning that the plant when cut and wounded, wept and bled forth balme; we can ſhew you our wounds, but wee look up to God and you for balme to heale them.</p>
+            <p n="2">2 <hi>The patient ſhould be (and I know is) deare unto you,</hi> expreſſed here by the Prophet to bee the daughter of his people, which holds her forth under two of the neareſt and deareſt relations of his native Countrey, and of the Church of God, both which now lie gaſping before you.</p>
+            <p n="1">1 The daughter of your people, (that is) your native Coun<g ref="char:EOLhyphen"/>trey, indeed your deare mother, that now lyeth ſick to death, and as it were breaking her heart-ſtrings with her dying groanes, and cloſing now her eyes, and bidding good-night to you, and to all her comfort in you together obteſtes you <hi>by the womb that bare you, and by the paps that gave you ſick,</hi> to expreſſe your piety in your pity, if it were poſſible, that you would be a meanes that ſhe which hath ſuckled you with her milk, may not be ſlocken in her own blood, that you would doe your utmoſt to prevent her death, which hath been a meanes of your life, and the comfort of it.</p>
+            <p n="2">2 The daughter of your people (as here of the Prophets) is the people of God, as your deare mother, ſo the dearer Spouſe of your deareſt Saviour, the Virgin daughter of Zion, the dear<g ref="char:EOLhyphen"/>ly <note place="margin">
+                  <hi>Ier.</hi> 12. 7.</note> beloved of his ſoule: its the Church as well as the State that now lyeth bleeding, and of all others in the whole Kingdom, they are the people of God, whoſe comforts, liberties, lives, are in moſt danger, of dying quite away. Now what an oath did <hi>Hypocrates</hi> that great Phyſician lay upon his Scholars to look well <note place="margin">Vide Hypocra<g ref="char:EOLhyphen"/>tis opera.</note> to his children? And ſhould not a ſtronger obligation from your heavenly Phyſician lie upon you to look better to his? if they thought it a ſtrong argument to haſten Chriſt to come and heale <hi>Lazarus,</hi> by ſending him word, that <hi>he whom he loved was</hi> 
+               <note place="margin">
+                  <hi>Ioh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 11. 3.</note> 
+               <hi>ſick;</hi> how much more prevalent will it be to quicken your both endeavour and ſpeed towards our cure, when you are now told, that its the dearly beloved Spouſe of Chriſt, that is ſo deadly ſick, never ſince recovered from the poyſon of that <hi>venefica</hi> of <hi>Rome,</hi> never ſo ſick as now: And therefore it is by all the bowels of Ieſus Chriſt that I move for the yearning of yours;
+<pb n="22" facs="tcp:130925:16"/> as you love him, pity his Church. Think, O think you ſee your Saviour for your ſakes conflicting with the paines of death and his Fathers wrath, the goare of his bloody ſweat in the garden, the wanneſſe of his dead look upon the Croſſe; and then if you can, do not pity his dying Spouſe now conflicting with the like deadly extremities; as ever you would have your bodily Phyſi<g ref="char:EOLhyphen"/>cian, nay Chriſt your heavenly Phyſician, faithfull and kind to you, when you lie on your death-bed (which how ſoon it may be, you know not) be you faithfull and pitifull to your own Fathers deare children, and your deareſt Saviours beloved Spouſe, now at this dead lift, if ever.</p>
+            <p n="3">3. And this yet the rather, <hi>becauſe your preſent employment, and call to it, hath many things in it which may justly challenge your greateſt care and diligence;</hi> that you may to God and man, both now and at the laſt day, give up your account of it with comfort.</p>
+            <p>It being,</p>
+            <p n="1">1. Such as Gods peoples prayers are much intereſted in: it be<g ref="char:EOLhyphen"/>ing indeed at firſt the happy birth of the earneſt prayers and en<g ref="char:EOLhyphen"/>deavours of all the people of God all the land over, and which have humbly and conſtantly attended you at the Throne of grace ever ſince, more it may be then ever Parliament was in this kinde at<g ref="char:EOLhyphen"/>tended and aſſiſted formerly: now theſe prayers in their return look for much from God, and not for a little from you. He indeed ſpake truth, who ſaid, that he that promiſeth himſelfe but little from the creature, ſhall not be much deceived; but it will be your faithfulneſſe, that Gods peoples prayers and expectations thereupon may not bee diſappointed; where they are engaged, they lay on ſtrong engagements. Unleſſe men would turn the Ca<g ref="char:EOLhyphen"/>nons mouth upon themſelves, ſo as that the ſame ſuppliants prayers that have ſtrongly pleaded for them ſhould as ſtrongly plead againſt them: How ſad would it be to us (that I may not ſay to you) <hi>Si filius tot lac hrymarum periret?</hi>
+            </p>
+            <p n="2">2. Such as the blood of many of the Saints is engaged in, and hath been ſhed for: now it is precious in Gods ſight, and there<g ref="char:EOLhyphen"/>fore <note place="margin">
+                  <hi>Pſal.</hi> 72. 14.</note> I know will be in yours; and then indeed it will be, when by your further care and endeavour ſomething of an anſwerable value ſhall be purchaſed with ſo great a price; and that will be, if hereby Gods Worſhip and Truth amongſt us come to be pur<g ref="char:EOLhyphen"/>ged,
+<pb n="23" facs="tcp:130925:16"/> Church and State reformed, Religion and a righteous Peace ſetled, if theſe great bleſſings bought indeed of God only by Chriſts blood, may in ſome ſenſe be purchaſed of man by their blood: thoſe happy ſoules now in bliſſe will never grudge it, but ſay much good do you with it; but let not our ſinfull negligence and faithfulneſſe incurre the guilt of it, it will at laſt fall heavy where ever it lights. O let it bee Babylons, but never Zions <note place="margin">
+                  <hi>Ier.</hi> 51. 35.</note> burden.</p>
+            <p n="3">3. Such, as in which Gods admirable Providence hath been very much engaged and manifeſted, in particularly eyeing and chuſing you, as ſo many <hi>Davids,</hi> out of the midſt of your bre<g ref="char:EOLhyphen"/>thren: ſure it was with hopes and expectations that you would be all like him, <hi>men after Gods owne heart, to fulfill all his will.</hi> Be you <note place="margin">
+                  <hi>Acts</hi> 13. 22.</note> therefore pleaſed to walk with God fully. In as carefully eyeing and watching over you ever ſince, he it is likely hath preſerved and delivered many of you in former times of your lives, and ſome of you ſince your ſitting here, from particular and perſonall ſick<g ref="char:EOLhyphen"/>neſſes and other dangers, all I am ſure of you from deadlieſt plots and miſchiefs: and then as <hi>Mordecai</hi> ſaid to <hi>Esther, Who knoweth whether thou art come to the Kingdom for ſuch a time as this?</hi> ſo let me ſay to you, Who knowes (it would be good for you ſeriouſly to think) whether God hath not preſerved and kept you alive on purpoſe to ſee what now you will do for him, whether now you will be faithfull unto him, or faile him?</p>
+            <p n="4">4. Such and ſo great, as this latter age (I believe) hath not brought forth the like, and the greateſt, that in all probability ei<g ref="char:EOLhyphen"/>ther God or man is likely ever to employ you in, and which your Lord and Maſter will call you to the moſt ſtrict account of; by which he will moſt fully try you, and according to which (it may be) above all other ſervices, he will at the laſt day finally iudge you.</p>
+            <p n="5">5. Such alſo, in the laſt place, as by your faithfulneſſe herein (as you are our State-Phyſicians) you may keep the diſeaſe from proving Epidemicall: for as for the generall body of this people, it hath welnigh overſpread all; and therefore the repreſentative bodies integrity (if any thing do) muſt ſtand for all, one body for another; you repreſenting us all, as well to God as to man, and ſo being for the preſent the only meanes that is left of keeping off
+<pb n="24" facs="tcp:130925:17"/> a Nationall guilt, and ſo the wrath of God from this whole Nation.</p>
+            <p>Thus in the firſt place, labour we, that ſuch as are by their place and office Gileads Phyſicians, may themſelves indeed prove ſuch.</p>
+            <p>Secondly, take we heed alſo for others, that we doe not hinder, <note place="margin">2 Duty.</note> but what in us lyeth to further them to be ſo.</p>
+            <p n="1">1 For the people, I beſeech you, that neither our jealouſies nor our malignacies may hinder our Rulers from being our Hea<g ref="char:EOLhyphen"/>lers, which would be but to poyſon the playſter that ſhould heal us; but let the Patient concur with the Phyſician, even your ear<g ref="char:EOLhyphen"/>neſteſt prayers and aſſiſtances with their endeavours to help on the cure; as its ſaid of the returned Iewes, <hi>they clave to their brethren the Nobles:</hi> as before that, <hi>Shekaniah</hi> ſaid to <hi>Ezra, Ariſe,</hi> 
+               <note place="margin">
+                  <hi>Nehem.</hi> 10. 29.</note> 
+               <hi>this matter belongeth unto thee, but wee alſo will bee with thee;</hi> As alſo before that, we read that <hi>Hezekiah</hi> humbled himſelfe for <note place="margin">
+                  <hi>Ezra.</hi> 10. 4.</note> the pride of his heart, and not hee alone, but its added (he and the Inhabitants of <hi>Ieruſalem;)</hi> incloſed in a confortable paren<g ref="char:EOLhyphen"/>theſis, as employed in the ſame bleſſed work, and ſo wrapt <note place="margin">2 <hi>Chron.</hi> 32. 26.</note> up in the ſame common bleſſing; for it followeth, So the wrath of God c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me not upon them in thoſe dayes: and ſo (namely) in the ſame bleſſed way of an happy union of hearts and hands, of Prince and people, it might not come upon us in our dayes neither, which for want hereof haſtens faſt; theſe mutuall jealouſies poyſoning the wound, and ſo haſtning our death, and at leaſt delaying, if not preventing our cure; The peoples infidelity hindred Chriſt from working miracles; the Lord grant that our peoples diffidence and <note place="margin">
+                  <hi>Matth.</hi> 13. 58.</note> frowardneſſe doe not as much hinder our Phyſiciars working the preſent cure, which (if wrought) will be little leſſe then mira<g ref="char:EOLhyphen"/>culous.)</p>
+            <p n="2">2 But for you (our much honoured Worthies) to whom I a<g ref="char:EOLhyphen"/>gaine make bold to addreſſe my ſpeech, in whoſe power in part it is, and whoſe further happineſſe it may be, not only your ſelves to be, but alſo to make others our Phyſitians, bee pleaſed to im<g ref="char:EOLhyphen"/>prove your ability and skill herein to the utmoſt.</p>
+            <p>Are <hi>Saints</hi> Surgeons? let them then (I intreat you) have not only your licence, but alſo your countenance and furtherance, that they may hold forth their profeſſion more boldly.</p>
+            <pb n="25" facs="tcp:130925:17"/>
+            <p>Are <hi>good Magistrates</hi> good Phyſicians? you may now in making good Lawes, make up (as it were) a more perfect <hi>Diſ<g ref="char:EOLhyphen"/>penſatory</hi> for them, by which they may give every one his right <hi>doſe</hi> more duly and ſafely.</p>
+            <p>Are <hi>good Miniſters,</hi> as well State as Soule-Healers; I then humbly beſeech you, that they may yet more and more enjoy the benefit of your Patronage; I ſpeak not in point of fat Benefices, but that they may bee admitted into that ſacred Colledge (as I may call it) more regularly; and then diſpence the things of God more freely, that they may have that liberty which the Word al<g ref="char:EOLhyphen"/>lows them, to cut off rotten members by Church cenſures, and not bee enforced (as by Law now in ſome caſes they are) to poure cordials into foule ſtomacks, whileſt they muſt adminiſter to moſt unworthy ones the holy Sacrament. And to this purpoſe, let me not forget to beſeech you, to have an eſpeciall eye to our Gileads, where <hi>Elijahs</hi> doe or ſhould dwell, the Schooles of the Prophets, as they are called, I meane out <hi>
+                  <g ref="char:V">Ʋ</g>niverſities;</hi> where I wiſh there were not too many diſtempers that have need of a more perfect cure, and that in ſtead of balm, poiſon were not too often dropt into green wounds; our diſeaſed Youth there, have great need of much better Nurſerie and Chirurgerie; How ſeaſonable would it be to have ſome more ſalt caſt into our <hi>Iericho's</hi> ſprings? And <note place="margin">2 <hi>Kings</hi> 2. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.</note> therefore I again beſeech you, let it be one ſpeciall part of your moſt ſerious care, in this generall cure, that we may (with Gods bleſſing) finde more ſoveraign balm there, and have better Phy<g ref="char:EOLhyphen"/>ſicians thence.</p>
+            <p n="3">3. But above all, the greateſt care of us all in this kind ſhould be, that we may keep God and Chriſt with us, and that his bleſſed Spirit may not by our ſinnes be driven away from us, this would be the ſpilling of the balm that ſhould heale us, and (with the di<g ref="char:EOLhyphen"/>ſtracted ſick man) the driving away the only chiefe Phyſician, that ſhould cure us; we cannot be injurious to him but we muſt be cru<g ref="char:EOLhyphen"/>ell to our ſelves; the driving of him away, is more then the for<g ref="char:EOLhyphen"/>ſaking of our own mercy: if we be of <hi>Davids</hi> temper, the health of his countenance, <hi>Pſal.</hi> 42. 5. is the health of ours, verſe 11. our <note place="margin">
+                  <hi>Ionah</hi> 2. 8. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> unprofitableneſſe will diſcourage him, and occaſion our Phyſici<g ref="char:EOLhyphen"/>an to leave us when he can doe us no good. But O let the daughter of <hi>Babylon,</hi> and not the Virgin of Zion ever heare that word ſaid,
+<pb n="26" facs="tcp:130925:18"/> 
+               <hi>We would have healed her, but ſhe is not healed, forſake her.</hi>
+            </p>
+            <p>But our frowardneſſe and baſe unwillingneſſe to bee at any <note place="margin">
+                  <hi>Ier.</hi> 51. 9.</note> paines or coſt for the cure, will quite drive him away from us, and leave us juſt in the ſwiniſh <hi>Gadarens</hi> ſtie; who, becauſe the heal<g ref="char:EOLhyphen"/>ing of their bodies, and caſting out of devils, coſt them their hogs, <hi>They deſired him to depart out of their Coaſts,</hi> which he did, and we read not, that he returned thither ever after. <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 8. 28. 29, <hi>&amp;c.</hi>
+               </note>
+            </p>
+            <p>But thus much for the firſt point, which holdeth forth the ſuf<g ref="char:EOLhyphen"/>ficiency of the meanes; I come to the ſecond which expreſſeth the unanſwerableneſſe of the ſucceſſe:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> 
+               <hi>That although there be both balm in Gilead, and a Phyſician there, yet the health of the people of God (at leaſt for the preſent) may not be recovered:</hi> Its leſſe wonder if you read of the daughter of <hi>Ni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>veh, Nahum</hi> 3. 19. of <hi>Egypt, Ier.</hi> 46. 11. of <hi>Babylon, Ier.</hi> 51. 9. that their wound was incurable, as its no wonder at all, if the wounds and ſores of corrupt ſores be hardfier cured; but its more pity that good fleſh ſhould heale ſo ill, that the daughter of Zion<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <note place="margin">E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1.</note> health, who is made partaker of Gods ſaving health, ſhould be ſo hardly recovered; that <hi>Ephraim</hi> ſhould grow more deſperately ſick under the cure; nay, that this ſhould reach unto <hi>Iudah</hi> alſo, that <note place="margin">
+                  <hi>Micah</hi> 9.</note> her wound ſhould bee paſt cure, that beſt Churches ſhould ſink deeper &amp; deeper into the worſt of miſeries. Sad is that other expreſ<g ref="char:EOLhyphen"/>ſion <note place="margin">
+                  <hi>Ier.</hi> 14. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> of our Prophet to this purpoſe, in a parallel place to this Text, in which the poore afflicted Church waſheth her wounds with her teares, whilſt ſhe we<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps over them as incurable, <hi>Haſt thou utterly rejected Iudah? hath thy ſoule loathed Zion? Why haſt thou ſmitten, and there is no healing? we looked for peace, and there is no good, and for the time of healing and behold trouble.</hi> But the Text and the foregoing verſes of this Chapter are ſo full, that they need no for<g ref="char:EOLhyphen"/>raigne ſupply; in the Text we have Gileads both balm and Phy<g ref="char:EOLhyphen"/>ſician meanes moſt likely, and in themſelves ſufficient; Gileads balm; the beſt Receipt and Gileads Phyſician, that beſt know how to apply it, and yet he knoweth not how to work a cure by it: but that you may take a fuller view, pleaſe but to look to the 18. 19. 20 verſes foregoing, and you ſhall finde all hopes and ex<g ref="char:EOLhyphen"/>pectations daſht, as v. 15. All ankers comming home, and all playſters falling off without healing, the patient fainting with the cordiall in his mouth, and ſinking quire down, whilſt beſet round with ſupporters to hold him up.</p>
+            <p n="1">
+               <pb n="27" facs="tcp:130925:18"/>1 <hi>A good heart;</hi> that ſhould be <hi>vinum in pactore,</hi> doe good, like <note place="margin">
+                  <hi>Prov.</hi> 17. 22.</note> a medicine; but alas, its wounded, v. 18. and heart-wounds are deadly: if the eye, <hi>the light that is <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>thes, be darkneſſe, how great</hi> 
+               <note place="margin">
+                  <hi>Math.</hi> 6. 23.</note> 
+               <hi>is that darkneſſe?</hi> and ſo, if the heart, the life that is in thee, bee dead, how great is that deadneſſe? which yet may betide the people of God in ſad houres, their hearts failing as well as their fleſh, as we have heard; the Spouſe of Chriſt inwardly fainting <note place="margin">
+                  <hi>Pſal.</hi> 73. 26.</note> and ſinking down in ſuch a ſwoone; and if the weak mans ſtaffe that ſhould eſpecially ſupport him be broken, how unavoidably and heavily doth he fall?</p>
+            <p n="2">2 <hi>A good God,</hi> in his holy ordinances; <hi>Is not the Lord in Zion?</hi> verſe 19. which was the place of Gods Ark, and it of his reſidence and preſence, enough (one would have thought) to have prevented all wounds (Zion ſo high as not to be reached by the hand of vio<g ref="char:EOLhyphen"/>lence) or at leaſt preſently to have healed them, as long as ſanctuary oyle poured in them, and yet the cure is not wrought for all this; the Lord and his Ark are in Zion, and yet the daughter of Zion continueth wounded, and her wound not healed: Which holds out, that a people may live under good ordinances, and yet ſadly groane under heavie preſſures and miſeries.</p>
+            <p n="3">3 <hi>A good King,</hi> and righteous adminiſtrations; <hi>Is not her King in her?</hi> verſe 19. Zion being not only the place of the Arke, but alſo the Kings Palace, and therfore called <hi>the City of David;</hi> in which therefore beſides the Ark of God, was <hi>David</hi> the ſervant <note place="margin">2 <hi>Sam.</hi> 5. 7.</note> of God, or ſome of his poſterity, there ſitting on the Throne, as <hi>Ioſiah</hi> for no leſſe then eighteene years of <hi>Ieremiahs</hi> time; And what Kings evill ſo dangerours as that he might not cure? but for all that, the cure could not be, the inflamation of the wound continued; notwithſtanding all that he was and did, the Lord <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur<g ref="char:EOLhyphen"/>ned not from the fierceneſſe of his wrath, that was kindled, and could not be quenched: Which further ſheweth, that the caſe ſome<g ref="char:EOLhyphen"/>times <note place="margin">2 <hi>Kings</hi> 23. 26.</note> may be ſo farre gone, as that neither Church Ordinance, nor Civill Government, can (for the preſent at leaſt) recover a poore fainting, dying Church and People.</p>
+            <p n="4">4 <hi>All likelieſt outward ſupplies,</hi> either at home or from abroad, verſe, 20. <hi>The Harveſt is paſt and Summer is ended, and we are not ſaved;</hi> Harveſt uſeth to be the income of our Store, but its paſt, and no proviſion laid in of our ſelves, nor help come from our
+<pb n="28" facs="tcp:130925:19"/> friends or Allies, now that after harveſt they might be moſt likely to be at beſt leaſure; but is there any thing yet behinde, which may ſupply us, or for the time detaine them, that with any com<g ref="char:EOLhyphen"/>fort and hope we may wait yet any longer? Yes Vintage is after Harveſt, ſtay therefore till that be paſt, and it may afford ſomething to cheare us, and then they may have nothing to doe, but to come and help us. The next clauſe anſwers that, and ſaith that's paſt too, not only Harveſt is paſt, but alſo ſummer (and ſo vintage alſo) is en<g ref="char:EOLhyphen"/>ded, after which no crop is to be expected, and we are not ſaved; Which laſt expreſſion ſaith expreſſely thus much, that hopefulleſt outward helps in likelieſt times and ſeaſons may faile the Church of God, and ſhe droop ſtill, even pine in Harveſt and faint in Vintage. All but further explaining the metaphor of the Text, that the daughter of Zion may be ſo deadly ſick and wounded, that not<g ref="char:EOLhyphen"/>withſtanding beſt meanes uſed, even Gileads balm applied; Yet,</p>
+            <p n="1">1 Her health (at leaſt for the preſent) not at all recovered, ſhee no whit mended.</p>
+            <p n="2">2 That's not all, not recovered, is but a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Prophet mea<g ref="char:EOLhyphen"/>neth more then he expreſſeth, he would ſay or at leaſt have you underſtand, that its much more indangered, as ſores if they doe not heale they rankle, and the ſick mans ſickneſſe, if his phyſick work not, proves more deadly.</p>
+            <p n="1">1 Old diſeaſes whether inward or outward, are more diſcove<g ref="char:EOLhyphen"/>red, it may be confirmed, or at leaſt for preſent, much more ex<g ref="char:EOLhyphen"/>aſperated; its uſually ſo with diſeaſed bodies, and we now full ſadly ſee it ſo in the bodies of theſe wofully diſtempered Kingdoms. When I would have healed Iſrael, then the iniquity (the perverſe crooked iniquity) of <hi>Ephraim</hi> was diſcovered, and the wickedneſs, <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> nay, the wickedneſſes, as the word is in the originall, the manifold and monſtrous wickedneſſe of Samaria, we may ſay as truly of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> never ſo deſperately ſick of both ſin and miſery, as ſince of late we have been under cure, our old lurking diſtempers are now ful<g ref="char:EOLhyphen"/>ly manfeſted.</p>
+            <p n="2">2 New ones multiplyed, as in bodily diſeaſes one begets ano<g ref="char:EOLhyphen"/>ther, and the ſick man that lay downe with one diſeaſe, before he get up againe hath gotten many, too ſadly made good in the ſinnes and miſeries of a diſtempered (of our diſtempered) peo<g ref="char:EOLhyphen"/>ple. There is a new riſing in the old bile, which of old was dan<g ref="char:EOLhyphen"/>gerous
+<pb n="29" facs="tcp:130925:19"/> and omnious; new ſinnes and ſinners diſcovered by an af<g ref="char:EOLhyphen"/>fliction, which before were never ſuſpected; and new judgements <note place="margin">
+                  <hi>Levit.</hi> 13. 18, 19, 20.</note> multiplied, even to foure times ſeven times more, which before (it may be) were never feared: and the worſt of it is, that the <note place="margin">
+                  <hi>Levit.</hi> 26. 18, 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 24, 28.</note> Devill appeares to be much in it, when the latter end doth prove ſo much worſe then the beginning of it, <hi>Matth.</hi> 12. 45.</p>
+            <p n="3">3 So as that to preſent ſenſe ſhe may ſeem to bee incurable, and her health wholly irrecoverable, when after all helps, ſhe not only negatively is nothing better, no mends, as though ſhee had had no meanes; (which is the meaning of the queſtion, <hi>Is there no Balm?</hi> whilſt there is no healing by it) but alſo poſitively growes much worſe, that her phyſick proves her poyſon, and her very Balm envenoms her wound; it is a poyſoned one indeed, and in mans eye abſolutely incurable. Of this point, if <hi>Iudah</hi> of old, and <hi>England</hi> now for the preſent were not too ſad inſtances, I ſhould adde further proofes, but they ſpare me that labour; and therefore I come to a third point, which will ſerve partly for the reaſon, and partly for the uſe of this ſecond.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>3</label> It was, That the reaſon of this heavy caſe is diligently to bee enquired after, and ſadly to be bemoaned and complained of.</p>
+            <p>And this wee had from the ſecond queſtion, <hi>Why then, &amp;c.</hi> which was (as we heard) a queſtion partly of enquiry, and partly of an expoſtulating and bemoaning complaint, and ſo let it be to us this day of our ſelfe-ſearching humiliation.</p>
+            <p>Firſt, matter of enquiry, of what ſhould be the reaſon of this ill ſucceſſe, when in the beginning of the Parliament we were as a ſhip under ſaile before the wind, bound amain for the faire havens of the peace and happineſſe of Church and State, that now <hi>retro omnia?</hi> but what unhappy <hi>remora</hi> or Anchor under water not yet ſeen, hath ſtopt us in this happy courſe? from what quar<g ref="char:EOLhyphen"/>ter hath this croſſe blaſt blown, that hath driven us againe into the depths, and daſht us ſo againſt the rocks, that all threaten ſhip<g ref="char:EOLhyphen"/>wrack? or rather in the expreſſion of the Text, when all promi<g ref="char:EOLhyphen"/>ſed ſo happy a cure, Phyſicians ſo able, balme ſo precious, the daughter of our people ſo ſick of her ſickneſſe, and ſo deſirous of a recovery, all in ſuch a faſt healing way; what is the matter, that we are fallen into ſo deſperate a relapſe, that all lies a bleeding, gaſping, and in the view of moſt, dying quite away?</p>
+            <pb n="30" facs="tcp:130925:20"/>
+            <p>For anſwer whereto, we muſt needs ſay, that the cauſe of all this muſt be in one of theſe three: either firſt, in the Phyſician and his phyſick; or ſecondly, in the Patient and his diſtemper; or thirdly, in ſome other negligent or ill-minded Attendant, or ſtander-by.</p>
+            <p n="1">1. I begin with the laſt firſt: and for it; when the queſtion was, How came ſuch choaking tares to ſpring up in a ſo well-ſown field? the anſwer was, that <hi>ſurely an enemy had done it:</hi> So for cer<g ref="char:EOLhyphen"/>taine, <note place="margin">
+                  <hi>Matth.</hi> 13. 23.</note> ſome enemy or other hath done this alſo. If you ask, who? you need not doubt, but that the old Serpent hath poyſon enough to invenom both the wound and the plaiſter; nor wants he his in<g ref="char:EOLhyphen"/>ſtruments and under-workmen, by the ſame meanes <hi>(viz.</hi> poy<g ref="char:EOLhyphen"/>ſonous ſlanders, and malicious oppoſitions) that he retarded the returned Iewes in their ſo hopefully a begun work, to hinder us alſo that are now returning from <hi>Babylon</hi> in a greater cure. I be<g ref="char:EOLhyphen"/>ſeech you therefore, as <hi>Paul</hi> did the Romans in a like caſe, to <note place="margin">
+                  <hi>Rom.</hi> 16. 17.</note> have a more watchfull eye, whilſt you are applying balme to the wound for the cure of it, to mark who they are that ſliely caſt in venome to poyſon it. Italians (they ſay have great skill in poyſoning of bodies, and they of the Italian Religion (I am ſure) have as great in poyſoning of Churches and States; not caring to burſt the body, to make their great ſwell. If ſome poiſon were not ſo ſubtle, and ſo ſubtly conveyed, as not, but by the deadlieſt effects of it, to be diſcovered; I ſhould leſſe feare theſe Romiſh Artiſts having any influence in beſt counſels and actions; and ſo have leſſe cauſe in this matter of enquiry to deſire your greater care: but if they be ſo crafty, you cannot be too circumſpect.</p>
+            <p n="2">2. For our Phyſicians, they are principally our God, and our Governours.</p>
+            <p n="1">1. Now for our God, He you ſee in the Text complaines of the ſlowneſſe of the cure; and therefore he can be no faulty cauſe of it: and yet in this enquiry, it may be of great uſe to conſider for what holy and wiſe ends he permits and orders it: namely,</p>
+            <p n="1">1. The wound may not be ſo ſoon healed, that it may be the more deeply ſearched, and the corruption of it more fully diſco<g ref="char:EOLhyphen"/>vered: ſo we read that God was leading Iſrael through a wilder<g ref="char:EOLhyphen"/>neſſe no leſſe then forty yeares, but it was thereby <hi>to prove them, and to know what was in their hearts:</hi> a ſhort ſpurt doth not try me, <note place="margin">
+                  <hi>Deut.</hi> 8. 2.</note>
+               <pb n="31" facs="tcp:130925:20"/> but the length and hardneſſe of the way will at laſt tell me what leg I halt on. Many a particular Chriſtian (I doubt not) can ſay, that he ſhould never have thought there had been ſo much infide<g ref="char:EOLhyphen"/>lity, pride, frowardneſſe, impatience, worldlineſſe, and ſuch like corruption in his heart, if ſuch an affliction which God laid on his eſtate, name, body, ſoule, &amp;c. had been ſooner removed, which by the longer on-lying of it, hath been (at leaſt to himſelfe) more fully manifeſted. And may not the like be as truly ſaid of a whole State and People? that the falſeneſſe and rottenneſſe of many had never been ſo diſcovered, if the cure now in hand had been more ſpeedily effected? great hath been our gaine in our loſſe of them; for ſome of them otherwiſe might have been made as chief pillars in the building (think you with what ſcandall and miſchief) who now by an heavier weight lying on for ſome longer time of their probation and ſeaſoning, have manifeſted themſelves to be rotten poſts. They are certainly now <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> times of triall, <note place="margin">
+                  <hi>Luke</hi> 8. 13.</note> that ſooner or later will diſcover us all. God (we hope) is about to ſet up his Tabernacle, nay his Temple; and therefore will have the gold that is to be emploied in it, more purely refined, and therefore more fully tried; ſo long being in the fire, hath already manifeſted ſome to be droſſe look we to it, for the fire may be yet kept in, and we in it, to try whether the reſt of us be any better metall. Our wound in the firſt place may therefore be the longer continued, that it may be the more throughly ſearched:</p>
+            <p n="2">2. And we the more deeply humbled: Which is the duty of this day, and the main work which (I believe) God is doing in <hi>England</hi> at this day, <hi>viz.</hi> to bring down our loftineſſe and pride to prick the ſwoln bladder, and to take down the <hi>Typhus</hi> of a <hi>Britannia trium<g ref="char:EOLhyphen"/>phans,</hi> as ſome few yeares ſince we vainly boaſted; becauſe then in our owne thoughts we were triumphant, we are therefore now ſadly militant, and may ſo yet continue longer, till our hearts be brought lower. For ſo, if one yeares wandring in the wilderneſſe will not humble Iſrael, fourty ſhall; and what ſubmiſſion a fewer <note place="margin">
+                  <hi>Deut.</hi> 8. 2.</note> months of war and trouble could not bring our Engliſh Iſrael un<g ref="char:EOLhyphen"/>to it may be God will ſee if ſome yeares continuance can effect; that if the luſty ſtrong man will <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> out one or two fits of the fe<g ref="char:EOLhyphen"/>ver, try whether the third or fourth will not make him ſtoop, and whether many more and long continued will not lay him down
+<pb n="32" facs="tcp:130925:21"/> on his bed, if not in his grave. Truly, for our parts, wee are now at the very brink of it, in many reſpects we are brought very low, and yet in our cloathes, diet, jollity, and bravery, eſpecially in our high liftings up of our hearts againſt God and his wayes, wee are as high as ever; but ſhall a proud heart and a proud people be able to carry it out thus againſt a great God? O <hi>England,</hi> be inſtructed leſt thou be yet, and yet, and yet ſeven times more plagued, and <note place="margin">
+                  <hi>Ier.</hi> 6. 8.</note> that till thine uncircumciſed heart be at laſt humbled: God cer<g ref="char:EOLhyphen"/>tainly is eating the proud fleſh out of it, and therefore it is that <note place="margin">
+                  <hi>Levit.</hi> 26. 41.</note> he yet continues the corraſive.</p>
+            <p n="3">3 And (as a fruit hereof) to take the creature quite off from its own legs and other crutches, and ſo in prayer and faith to caſt it upon God only: for as long as wee can make any ſhift of our ſelves, or can think of any help from the creature, ſo long God ſhall not bee ſought after; for to him naturally wee will not bee beholden till we needs muſt; and ſo when not only <hi>Ephraim</hi> feels his ſickneſſe, but even when <hi>Iudah</hi> ſeeth his wound, the <hi>Aſſyrian</hi> and King <hi>Iareb,</hi> are their next Phyſicians that are firſt ſent to, <hi>Hoſ.</hi> 5. 13. (as <hi>Baal-zebub</hi> before God by ſick <hi>Ahaziah,)</hi> and thereup<g ref="char:EOLhyphen"/>on <note place="margin">2 <hi>Kings</hi> 1. 2, 3.</note> the Moth is turned into a Lyon, verſe 12. 14. (Iudgements as its moſt juſt, not only continued, but alſo encreaſed when the creature is preferred, and God neglected) which doth ſo rend and teare and carry away, that they cannot heale, verſe 13. nor any elſe reſcue, verſe 14. that ſo at laſt, cap. 6. 1. God may heare of them, and that word from them, <hi>Come and let us returne unto the Lord; for he hath torne, and he will heale us, &amp;c. Jehoſhaphat</hi> muſt be brought to that paſſe, <hi>that he knowes not what to doe, that his</hi> 
+               <note place="margin">2 <hi>Chron.</hi> 20. 12.</note> 
+               <hi>eyes may bee up to God,</hi> when hee can look for help no where elſe: and it is out of meaſure and above ſtrength, that even <hi>Paul</hi> muſt be preſſed, ſo as <hi>to deſpaire of life,</hi> and <hi>to receive in himſelfe the ſentence of death;</hi> that ſo he might be brought, not to truſt <note place="margin">2 <hi>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi> 1. 8, 9.</note> in himſelfe, but in God that quickneth the dead. This I conceive is another piece of that great work, which God in this King<g ref="char:EOLhyphen"/>dome hath beene long about, and is yet doing to this day, <hi>viz.</hi> to take us off from relying on Counſellors and Souldiers, our owne ſtrength at home, and friends abroad; with <hi>Aſa,</hi> truſting more <note place="margin">2 <hi>Chron.</hi> 16. 12.</note> to our Phyſicians then our God: in which caſe it is his faithful<g ref="char:EOLhyphen"/>neſſe to let the preſent iſſue yet run, to prevent a more dangerous and deadly miſchief.</p>
+            <p n="4">
+               <pb n="33" facs="tcp:130925:21"/>4 And hereupon, that in caſe health and healing doe come, we may know to whom to give all the praiſe: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Aeſculapio,</hi> praiſe to our God: it being the great praiſe of a Phyſician to cure that at laſt which many others had been long about, and given over as deſperate; as it was in Chriſts curing of her that <note place="margin">
+                  <hi>Mark</hi> 5. 26.</note> had ſuffered much, and ſpent all on other Phyſicians, and yet proved rather worſe then better: How wonderfully would the glory of God appeare, if now that all help on earth ſeemes to faile us, he from heaven would ſave us? none could then ſhare with him in his prayſe, when none joyned with him in the work: we ſhould then thruſt away all the prayſe from our ſelves, as it were with one hand, and ſay, <hi>Not unto us O Lord;</hi> and as though <note place="margin">
+                  <hi>Pſal.</hi> 115. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> it were not yet far enough from us, thruſt it yet further off with the other, and againe ſay the ſecond time, <hi>Not unto us, but unto thy name be all the prayſe:</hi> When lanched thus into the deep, out of ſight of land, and in the midſt of the ſtorme, when nothing appeares but Sea and Heaven, ſhould we then by the tempeſt be driven into Harbour; we muſt needs lift up hands on high, and thankfully ſay, <hi>This Sea did not drown us, becauſe that heaven ſaved us:</hi> For which end it is, that God oftentimes, either early prevents us with ſalvation before we ever dreamt of it, is up be<g ref="char:EOLhyphen"/>fore us, before we went out to work, that we might not ſay we wrought it; or ſome other time ſtayeth long till we be quite wearied out and gone to bed having done nothing; comes not to his Diſciples till the fourth watch of the night, and when <note place="margin">
+                  <hi>Matth.</hi> 14. 25.</note> they are quite beat out with the ſtorm, that ſo when he comes, he may ſay, <hi>It is I,</hi> and we may not have to ſay otherwiſe, but <note place="margin">
+                  <hi>
+                     <g ref="char:V">Ʋ</g>erſe</hi> 27.</note> that it is thou Lord only.</p>
+            <p n="5">5 Laſtly, that as he then may have all the prayſe, ſo that we may learn thereby to have more care how we expoſe our ſelves to ſuch dangers and wounds ever after: This uſe they made of it in their return from <hi>Babylons</hi> captivity, <hi>After all this is come</hi> 
+               <note place="margin">
+                  <hi>Ezra</hi> 9. 13. 14.</note> 
+               <hi>upon us, and thou haſt given us ſuch deliverance as this, ſhould we againe break thy Commandements? wouldst thou not be angry with us till thou hadſt conſumed us? &amp;c.</hi> As if they had ſaid, upon our ſlow recovery, we had need be the more fearefull of a relapſe; for if the laſt wound were ſo long in healing, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ware
+<pb n="34" facs="tcp:130925:22"/> leſt the next prove not altogether incurable.</p>
+            <p>Beloved, ſhould wee yet be more ſick; if yet thereby we might be made the more carefull to goe away and ſin no more, <note place="margin">
+                  <hi>Iohn</hi> 5. 14.</note> it would be but the healing of a lethargy by a feaver, a greater diſeaſe by a leſſe, and ſo we ſhould have no cauſe to blame our heavenly Phyſician, our God.</p>
+            <p n="2">2 But what ſay you to our Governours, under God our Phy<g ref="char:EOLhyphen"/>ſicians? enough and oft too much, as its uſuall; if the unruly Patient be not cured, the Phyſician (doe he what hee can) is wont to be blamed. Noble Senators, what you have been, or are to God and us, we bleſſe him and you for; and the Lord adde to it an hundred-fold; but the preſent day and duty (were there nothing elſe) forbid the giving of flattering Titles to lift you up, who came hither as well as the meaneſt of us to bee humbled, and lie low at Gods feet for mercy: and for this pur<g ref="char:EOLhyphen"/>poſe, the leſſe others may, the more I beſeech you, that you your ſelves would make an inquiry, whether there be any thing amiſſe either in balme or Phyſician, in your perſons or actions, as men, or as Parliament men, that may be the cauſe, why, af<g ref="char:EOLhyphen"/>ter all your care and paines, the health of the daughter of our people is not yet recovered, but rather more endangered; Now the Lord help you in a further ſearch, as into other mens ſinnes; ſo into your own hearts and wayes, that there may be both wayes a more perfect diſcovery and recovery together.</p>
+            <p n="3">3 But let the Phyſician be never ſo skilfull and faithfull, and his phyſick never ſo ſoveraign and uſefull, the Patient yet may grow worſe rather then better, and the whole faulty cauſe be in himſelfe onely; and that firſt, either in the nature of his diſeaſe, or ſecondly, in his own miſcarriage of himſelfe, whilſt he is un<g ref="char:EOLhyphen"/>der the cure.</p>
+            <p>1 And firſt, for diſeaſes and wounds, though the balme in it ſelfe ſhould bee able to heale all, as wee ſaw in the firſt Do<g ref="char:EOLhyphen"/>ctrine; yet ſome may be at leaſt longer under the cure, and ſome in the event at laſt prove indeed incurable; As in par<g ref="char:EOLhyphen"/>ticular,</p>
+            <p>Firſt, wounds, when great and deep, and diſeaſes, if more vio<g ref="char:EOLhyphen"/>lent and malignant: anſwerable whereunto are great ſinnes which
+<pb n="35" facs="tcp:130925:22"/> cauſe great and deeper wounds, eſpecially when ſinners grow vi<g ref="char:EOLhyphen"/>rulent and malicious, they thereby poyſon the wound, and make the feaver malignant, and ſo hardly, if at all, recoverable: So <hi>Iudah,</hi> when their ſinne <hi>(viz.</hi> Idolatry) was great, and withall they malicious, in wounding and killing Gods Prophets that were ſent to cure them; their caſe then proved incurable, <hi>there was then</hi> (we heard) <hi>no remedy.</hi> 
+               <note place="margin">2 <hi>Chron.</hi> 36. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 15. 16.</note>
+            </p>
+            <p>Its now our preſent caſe, and as likely to be incurable, if God be not more mercifull: for our ſinnes, for kinde, are very great, and if circumſtances can bigger them, of the largeſt ſize; if their Idolatry made them without remedy, ours may well keep us under a longer cure: and the Lord grant it at laſt. For if imbitteredneſſe of ſpirit againſt God, his grace, truth, wayes, and ſervants, can make it, I feare me, <hi>Englands</hi> preſent diſeaſe, as much as, if not more then any other Nations, is grown peſti<g ref="char:EOLhyphen"/>lentially malignant.</p>
+            <p>Secondly, ſometimes the wound is ſecret, like the <hi>Philiſtims</hi> 
+               <note place="margin">1 <hi>Sam.</hi> 5. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> blinde <hi>Emerods,</hi> not ſo eaſily diſcerned; or its ſome lurking diſ<g ref="char:EOLhyphen"/>eaſe, that is not of a long time diſcovered, and therefore the longer before it be healed: Anſwerable hereunto, are ſecret ſins, not ſuſpected, or at leaſt not diſcovered, and therefore very hard<g ref="char:EOLhyphen"/>ly cured; as <hi>Achans</hi> accuſed thing hid in his Tent, made ſuch a wound in the body of that people, as even <hi>Ioſhua's</hi> prayer could not heale, till it was laid open and diſcovered. <note place="margin">
+                  <hi>Ioſh.</hi> 7.</note>
+            </p>
+            <p>A faire Item for us, in this day of our ſearching into our wound, which will not heale, to take the Probe and ſearch yet deeper, whether ſome envenomed Arrows head lie not yet hid in it, that hinders the healing of it, I meane ſome ſinne or other of this Nation, which hath not yet been diſcovered, or if ſeen, yet over-looked, or at leaſt nor openly and ſolemnly confeſſed and bewailed, either in the Parliaments Ordinance, or our Church Aſſemblies: it may be there is; it would be well there<g ref="char:EOLhyphen"/>fore when we ſee the finger ſwell and rankle, to look a little more narrowly, if there bee not ſome thorne or thiſtle in it, which before we minded not, that thus cauſeth and continueth the paine; ſome <hi>Ionah</hi> hid under the Deck, which makes the Sea work, and the ſtorme encreaſe, and row the Mariners as <note place="margin">
+                  <hi>Ionah</hi> 1.</note>
+               <pb n="36" facs="tcp:130925:23"/> hard as they can, keeps them yet from the haven.</p>
+            <p>3. We heard that Chronicall diſeaſes were hardly cured, and old ſores heale very ſlowly, eſpecially in old age, and to<g ref="char:EOLhyphen"/>wards winter: Anſwerable whereunto are old ſinnes long con<g ref="char:EOLhyphen"/>tinued in, upon which uſually follow long continued judge<g ref="char:EOLhyphen"/>ments, hardly delivered from. There are but two places in Scripture that ſpeak of ſinners ſetled on their lees, and in both <note place="margin">
+                  <hi>Ier.</hi> 48. 11. <hi>Zeph.</hi> 1. 12.</note> wee read of their deep ſinking in judgements.</p>
+            <p>Doe I not here againe touch our ſore? and withall point at one cauſe of the ſlow healing of it? we have beene (as wee think) long in ſuffering, but is it not becauſe we have beene longer in ſinning? We that are already almoſt out of breath, ſhould be quite out of all patience, if God and our Governours ſhould be as long in healing of our wounds, as we have been in making them; though in other caſes we know it is ordinary, that the wound is ſooner made then cured, and the ſickneſſe eaſilier fallen into, then riſen up out of. We that are ſick of new faſhions, are ſtark dead, and growne ſtiffe in retaining old ſinnes. I feare me, God is now upon an old reckoning with us, he ſpeed us to a good end of it; for the daughter of <hi>Jere<g ref="char:EOLhyphen"/>miahs</hi> people, growne old in adulteries, when thereupon grown <note place="margin">
+                  <hi>Ezek.</hi> 23. 43.</note> fick of her filthy diſeaſes, died out right before ſhe recovered.</p>
+            <p>4. As any old diſeaſes are long in curing, ſo eſpecially thoſe that are hereditary, and ſo become naturall to our temper and conſtitution: the ſonne inherits more often his fathers gout or ſtone, then his lands, and is ſooner rid of the one then of the other. Anſwerable hereunto is the ſinne of our nature, either in the generall depravation of it, in our firſt parents; or in ſome more particular veines of it, derived to us from our next Proge<g ref="char:EOLhyphen"/>nitors. <hi>David</hi> in ſenſe of that irrecoverable ſickneſſe of his child, <note place="margin">
+                  <hi>Pſal.</hi> 51. 5.</note> aſcendeth to the firſt diſtemper of his nature which occaſioned it; and the Iewes ſo faſt ſticking to their forefathers ſinnes, <note place="margin">
+                  <hi>Ier.</hi> 44. 17.</note> brought judgements that clave as faſt to them, and their poſte<g ref="char:EOLhyphen"/>rity after them. <note place="margin">
+                  <hi>Ver.</hi> 21, 22, 23.</note>
+            </p>
+            <p>O that in waſhing this day with our teares our ſtill-bleeding wounds, we could (as wee ſhould every day) weep over our firſt old ſore, acknowledging it to be bad fleſh that is ſo ill to
+<pb n="37" facs="tcp:130925:23"/> heale, and that ſure our blood is tainted, that continues the quartane thus long, and turnes it into a continued fever.</p>
+            <p>And in particular, that we would have ſome recourſe to our next or more remote forefathers ſinnes, which we indeed in<g ref="char:EOLhyphen"/>herit more then their eſtates, and in theſe plundering times are hardlier pluckt from them, then from their inheritances; accounting it piety towards them to be impious againſt God, whileſt we chuſe rather to tread in their ſteps, then to wal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in his wayes; their vaine, profane, ſuperſtitious, and ſome<g ref="char:EOLhyphen"/>times ridiculous cuſtomes and wayes we have beene borne to, and brought up in, and therefore can by no meanes endure to be pluckt from; which I feare God now viſits for, and it may be our poſterity may ſmart for, that the tent may be as deep as the wound. O that theſe Devills that have poſſeſſed us <note place="margin">
+                  <hi>Matth.</hi> 17. 21.</note> from our youth, may this day goe forth with prayer and faſting! Theſe and ſuch like particulars in the diſeaſe may protract the cure; but were there none ſuch, yet,</p>
+            <p>2. In the ſecond place, the diſtempered miſ-carriage of the Patient, whilſt under cure, may not only protract it, but even wholly intercept it. And for this, I deſire that in our preſent ſearch, wee would carefully enquire after this one particular; namely, Whether our not being willing wholly to give up our ſelves to our heavenly Phyſicians ordering and diſpoſall, for our cure, together with the time, way, and meanes of it, be not one chiefe cauſe of the longer delay of it. When it came to a [Father, not my will, but thine be done] though (it is true) <note place="margin">
+                  <hi>Matth.</hi> 26. 39.</note> death enſued; yet it is as true, that a glorious reſurrection ſhortly after followed upon it.</p>
+            <p>Could we now bee but fully meekned under our heavenly Fathers hand, be freely willing to be and to doe, to ſuffer and to want whatever our God will; ſo that our heavenly Phyſi<g ref="char:EOLhyphen"/>cian may diet us, and our Chirurgeon at his pleaſure binde us, if we were made willing to abſtaine from what he forbids, and to doe and take whatever he preſcribes, and quietly ſuffer and undergoe what in this his lanching and ſearing of us he in<g ref="char:EOLhyphen"/>flicts, without making a ſowre face at a bitter potion: I durſt aſſure you in Gods Name, that either no death would follow upon it, or if the witneſſes, with us, ſhould not yet be ſlaine,
+<pb n="38" facs="tcp:130925:24"/> yet that after the third day there would follow upon it a like happy reſurrection.</p>
+            <p>I doubt me, that here I have <hi>unguem in ulcere,</hi> my finger once againe upon our preſent malady, and on one maine cauſe of the continuance of our miſery. God findes us (I feare me) as yet an unſubdued people, like the Prophets <hi>wil<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Bull in</hi> 
+               <note place="margin">
+                  <hi>Iſa.</hi> 51. 20.</note> 
+               <hi>a net,</hi> as impatient to be bound to our better abbearance by theſe cords of affliction, as we were before by the ſacred tyes of his holy commands. Wee will doe, and ſuffer, and part with as much of our eſtates and comforts, for God and his cauſe, as we think fit, (and that with many of us is but little, with ſome nothing) but not ſo much as hee and it call for: our concluſion with our ſelves is, that wee meane not to be ſo bad husbands as <hi>Paul</hi> was, to loſe all for the gaining of Chriſt, to be ſo poore or pure, as we fore-ſee he and his <note place="margin">
+                  <hi>Phil.</hi> 3. 8.</note> cauſe will make us, and that makes us leave both him and it together: And from hence, I verely think, in a great meaſure comes the continuance of that miſery which we would ſhorten, if not prevent.</p>
+            <p>We are not willing to lie ſtill whilſt we are cut and lanched, and therefore our bleſſed Chirurgeon is enforced to binde us yet faſter: we cannot endure to be brought ſo low, as God would have us; and therefore (it may bee) he will have us yet lower: nor to ſtay ſo long under his cure, and it may even therefore prove the longer: we love our eaſe more then ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> health; and therefore may come to be more ſick: nay the cor<g ref="char:EOLhyphen"/>ruption of our wound more then the cleanſing of it, (for old corruptions we love, and an holy Reformation we loathe) and therefore may expect yet more ſharp abſterſives: we are ſick of our phyſick, and were not ſo much before exaſperated againſt them that made our wounds, as now againſt them that would heale them. It was <hi>Livies</hi> ſad complaint of his times, that they could endure neither their malady, nor medicine: the ſame is the unhappineſſe of ours; before the Parliament took us in hand, we were ſo ſick, that without cure we could not live; and ſince, we are growne ſo froward, that wee will not bee cured. Now the good Lord pity us; but muſt we thus die?</p>
+            <pb n="39" facs="tcp:130925:24"/>
+            <p>Thus much for this firſt uſe of examination, as this [Why is not, &amp;c.] was a queſtion of enquiry.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> Let the next be a word of humiliation, as it was a queſtion of expoſtulation and a bemoaning complaint: and indeed let it be a complaint which we make, not of God, but of our ſelves, that when there is no fault in him, there ſhould lie ſo much guilt on us; his balme provided and afforded, and we not hea<g ref="char:EOLhyphen"/>led. <hi>O thou that art named the houſe of Jacob, is the Spirit of the Lord straitned?</hi> (ſay, have we beene ſtraitned in his <note place="margin">
+                  <hi>Micah</hi> 2. 7.</note> bowels, or not rather in our owne hearts? are theſe his doings? Look on all that is done, on all the deep bleeding wounds of this poore dying Kingdome; are they deep? and doe they in<g ref="char:EOLhyphen"/>deed ſmart and bleed, and feſter? O look upon them yet againe with a ſad heart and wet eye, (they bleed, and ſhould not we weep?) and ſee whoſe doings they are, Gods or ours, as whe<g ref="char:EOLhyphen"/>ther the malefactors branding and executing be his or his Iudges; the unhappy child, whipping, his or his fathers; the malefactors in ſinfully deſerving, or the Iudges in righteouſly puniſhing; the childes in offending, or the Parents incorrecting; the deſpe<g ref="char:EOLhyphen"/>rate mans in making his wound, or the faithfull Chirurgeons in ſearching it: and let not the juſt Iudge beare the blame of the Malefactors crime, or the tender Father of the untoward Childes wantonneſſe, or the carefull Chirurgeon of the diſtem<g ref="char:EOLhyphen"/>pered Patients unrulineſſe. No, thy wayes and thy doings have procured theſe things to thy ſelfe, ſaith God, <hi>Ier.</hi> 4. 18. and chap. 2. 17. he dare appeale to them whether they could ſay other<g ref="char:EOLhyphen"/>wiſe; Haſt thou not procured this unto thy ſelfe, in that thou haſt forſaken the Lord thy God, when he led thee in the way? The Lord hath not been unwilling to be our God, to be <hi>Englands</hi> God, but we have forſaken him, and that even when he led us in the way, ever ſince he led us in the way out of Egypt towards Canaan, as farre as wee got in the firſt Reformation; but eſpeci<g ref="char:EOLhyphen"/>ally ſince of late after our recoiles backwards towards Egypt, he hath been about to leade us the ſecond time in a more direct and full way Canaan-ward; have we not ſince this forſaken him? and many of us more then ever turned our backs on him? and whom then ſhall we complaine of, for theſe our longer wandrings? of
+<pb n="40" facs="tcp:130925:25"/> God? no; of our ſelves only, and that in regard both of God, and our ſelves.</p>
+            <p>1 Firſt, of our ſelves, that we ſhould be ſo cruell to our ſelves, that either for the Popes, or our owne ſinfull luſts ſake, wee ſhould at firſt make ſuch deadly wounds, and now more cruelly hinder the cure of them: for as <hi>Eſther</hi> ſaid of <hi>Haman, that the enemy could not countervaile the Kings dammage:</hi> ſo can our <note place="margin">
+                  <hi>Eſther</hi> 7. 4.</note> luſts, or the Whore of Babylon (think you) make the Vir<g ref="char:EOLhyphen"/>gin of Zion amends, for thus making her a ſelfe-murderer? Now where is the heart of the true Engliſh man? of old ſo zealous of its Nations honour and happineſſe? Where the bowels of a true Chriſtian, <hi>that ſhould doe good to enemies?</hi> and ſhall we wound friends? even kill our ſelves? Is it the daugh<g ref="char:EOLhyphen"/>ter <note place="margin">
+                  <hi>Matth.</hi> 5. 44.</note> of my people in the Text, that God is ſo tender of? and what is become of her Virgin tender heartedneſſe? it was of old a part of <hi>Jeremiahs</hi> Lamentation, That <hi>the daughter of his people was become cruell like the Oſtriches</hi> in the Wilderneſſe, in that they <note place="margin">
+                  <hi>Lam.</hi> 4. 3, 4.</note> ſuckled not their children, when in truth the cauſe was, that they had no milke for them: but may it not then be a ſadder note in ours, when the daughter of our people makes her ſelfe drunk with her owne, and her childrens blood? and (which is worſt) cannot be ſatisfied with it; and therefore takes a courſe that it ſhould bleed ſtill? Oh how unlike to her ſelfe is the tender daughter of our people, that is become ſo cruell and unnaturall! It is not the tender Virgin of Zion, but <hi>the cruell man</hi> (ſaith <hi>Solomon) that troubles his owne fleſh;</hi> nay the A<g ref="char:EOLhyphen"/>poſtle <note place="margin">
+                  <hi>Prov</hi> 11. 17. <hi>Epheſ.</hi> 5. 29.</note> un-manneth him that hates it; yea, the Goſpel tells us, <hi>it was a man poſſeſſed with no leſſe then a legion of devills that cut and wounded himſelfe, and</hi> (which was more devilliſh) <hi>that cried out of Chriſt when hee came to heale him:</hi> whereby <note place="margin">
+                  <hi>Mark</hi> 5. 5. 7, 9.</note> it appeares, that there is more then the rage of a man, no leſſe then Satanicall malice and cruelty in this our preſent malady, when we can endure to teare out our owne bowels; and what legion of devills hath poſſeſſed us, that wee can ſee our deare mother lie gaſping in her gore, and yet more cruelly widen and deepen the wound? and moſt poyſonouſly hinder (at leaſt protract) the cure? O that this day wee could abhorre our
+<pb n="41" facs="tcp:130925:25"/> ſelvs that in theſe reſpects we ſhould be 1. thus cruell to our ſelvs 2. And alike injurious to God.</p>
+            <p>1 In making him thus deadly to wound us, which he would not, hath no heart to, <hi>Lam.</hi> 3. 33. hath no inſtrument of his own for, but muſt hire it, <hi>Iſa.</hi> 7. 20. accounts it <hi>his ſtrange worke, Iſa.</hi> 28. 21. and therefore would be a ſtranger to it: Now then if an earthly father would not willingly make uſe of the rod, why ſhould we enforce our heavenly Father to take the ſword? though we be cruell, yet our God is not; and why then ſhould we make him? 1. in conſtraining him to wound us, when he would not; 2. in <note place="margin">Crudelem Me<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um, &amp;c.</note> bindring him to heale us, when he would; We cannot but ſay, that this our wofull wound hath divers times been in a faire way and forwardneſſe to be healed, and yet ſuddenly (we know not how) caſt back again, and inflamed more then ever; and what comes this to, but to our Saviours <hi>I would, and ye would not?</hi> it plainly ſhewes, that God hath deſired and furthered, but we have <note place="margin">
+                  <hi>Mat.</hi> 23. 37.</note> hindered our owne healing, and thereby him of the praiſe.</p>
+            <p n="1">1 <hi>Of his tender bowels of mercy,</hi> which he moſt delights in, as though they were ſhut up from pitying us, which wee know have been ſtrongly yearning towards us.</p>
+            <p n="2">2 <hi>Of his faithfulneſſe,</hi> as though in this our greateſt ſtrait hee were wanting to us, who (our conſciences can witneſſe) hath never failed us: nay, as though he intended to betray us, by en<g ref="char:EOLhyphen"/>gaging us in his cauſe and then leaving us, as the Egyptians were ready to make a like expoſition of the like caſe, that God for miſchief ſhould <hi>lead out his people to deſtroy them in the wildernes:</hi> 
+               <note place="margin">
+                  <hi>Exod.</hi> 3. 12.</note> Whereas thoſe of us that are moſt diſappointed cannot (I am ſure) ſtand out and ſay, that our faithfull God in any thing, where<g ref="char:EOLhyphen"/>in he ever engaged us, hath deſerted us.</p>
+            <p n="3">3 <hi>Of his Power,</hi> as though he were not able to ſave us, the Egyptians like gloſſe upon the like Text, <hi>Numb.</hi> 14. 16. where<g ref="char:EOLhyphen"/>as the mighty acts that our eyes of late have ſeen, cannot but convince the moſt either dull or obſtinate, that although by rea<g ref="char:EOLhyphen"/>ſon of our ſinnes, it ſhould never be done, yet it never was, nor will be for want in our Almighty God to do it.</p>
+            <p n="4">4 <hi>Of his Wiſdome,</hi> as appointing meanes either weak, or im<g ref="char:EOLhyphen"/>proper, or importune, not able, not fit, at leaſt not at this time,
+<pb n="42" facs="tcp:130925:26"/> to effect it; which was the allegation of the returned Iewes for their delay, but cannot be for God here in the Text, for it was balme, a medicine moſt ſoveraign, <hi>Gileads</hi> balme, an homebred <note place="margin">
+                  <hi>Hag.</hi> 1. 2.</note> Medicine of their own, and therfore moſt proper; applyed when they were deadly ſick and wounded, and could it be in a fitter time? all which agreed in the courſe which God took, and the meanes which he hath uſed for our cure, inſtruments moſt preci<g ref="char:EOLhyphen"/>ous, admirably fitted for the worke, and them of our own bre<g ref="char:EOLhyphen"/>thren and then, when we ſtood in moſt need; and yet if now by reaſon of our ſinnes all ſhould miſcarry, in the eye of the per<g ref="char:EOLhyphen"/>verſe world, God and his ſervants ſhall be accounted to have miſtaken, either in the time, they were too haſty, the bile was not ripe as yet to be lanched, popery ſhould have been ſuffered to have feſtered a little longer, till it had poyſoned all: or in the meanes, this was not the way; but a <hi>Quid pro quo;</hi> nay of the very cauſe and perſon, diſeaſe and patient, for piety and not Po<g ref="char:EOLhyphen"/>pery ſhall then be avouched to have been the diſeaſe, and nor the Atheiſt and Papiſt, but the zealous Proteſtant the true ma<g ref="char:EOLhyphen"/>lignant, and ſo Gods cauſe ſhall be none of his, and ſo God not himſelfe; but <hi>ſhall we ſo requite the Lord, O fooliſh people and un<g ref="char:EOLhyphen"/>wiſe?</hi> becauſe we will be our ſelves, ſhall not God be himſelfe? <note place="margin">
+                  <hi>Deut.</hi> 32. 6.</note> becauſe wee will ſtand to our cauſe, ſhall God deſert his? be<g ref="char:EOLhyphen"/>cauſe we will be deſperate and unthankfull, ſhall not hee there<g ref="char:EOLhyphen"/>fore be holy, wiſe, juſt, faithfull and mercifull? and yet all this in caſe after all that is done, by reaſon of our ſinnes, wee ſhould yet quaile, will be called in queſtion, as the unruly patient in hindering his own cure, wrongs indeed himſelfe; but withall wounds his Phyſician in his repute for skill or will, faithfulneſſe or love, or ſomething or other that will be thought was wanting: as in caſe <hi>Iſrael</hi> loſe themſelves in the wilderneſſe, the fault will be laid on their guide; and yet our caſe will be worſe then that, <note place="margin">
+                  <hi>De<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 9. 28.</note> for there <hi>Moſes</hi> feared that Egyptians, <hi>i. e.</hi> ſtrangers and ene<g ref="char:EOLhyphen"/>mies onely would make ſuch perverſe conſtructions, but it is to bee feared that in caſe of our miſcarriages ſome of the Iſ<g ref="char:EOLhyphen"/>rael of God themſelves may bee ready to prove ſuch weake Interpreters, that when wee have by our ſinnes poyſoned the wound, even we our ſelves through frowardneſſe or unbeleef
+<pb n="43" facs="tcp:130925:26"/> may be ready to call Gods love, faithfulneſſe, power, and wiſ<g ref="char:EOLhyphen"/>dome in queſtion about the cure; and out of unjuſt diſtruſt be ready to ſay, what God here in the Text ſaith by way of juſt complaint. But is there was there, no balme in <hi>Gilead?</hi> what, no Phyſician there? is there any help in God, when we finde none? any faithfulneſſe in him, when no faith in us? <hi>is not his mercy cleane gone for ever,</hi> ſeeing our hopes are? <hi>Doth not his</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 75. 8, 9.</note> 
+               <hi>promiſe faile,</hi> when our expectations doe? For ſo indeed ſick children are oft very froward; and thus when we get no good, God gets much diſhonour, from us, as well as others; not only Gileads balme is ſpilt, too precious (as wee heard in the be<g ref="char:EOLhyphen"/>ginning) ſo to be loſt; <hi>ad quid perditio haec?</hi> but alſo Gileads <note place="margin">
+                  <hi>Matth.</hi> 26. 8.</note> chiefe Phyſician wronged, too good to be ſo ill requited: let us think that Chriſt ſpeaks thus to every one of us. <hi>Amice, ut</hi> 
+               <note place="margin">
+                  <hi>Iohn</hi> 18. 13.</note> 
+               <hi>quid me percutis?</hi> friends, but why through your owne ſides, do you wound your beſt friend and Phyſician to the heart, who heartily hath both deſired and endeavoured your healing? Let this above all be our preſent ſhame and griefe, and let it be our greateſt care for ever hereafter ſo to comply with God, and that cure he is yet about, that at laſt, to his praiſe and our own com<g ref="char:EOLhyphen"/>fort, it may manifeſtly appeare to us, and to all, that there hath beene balme in Gilead, and a faithfull Phyſician there, when the health of the daughter of our people ſhall be recovered.</p>
+            <trailer>
+               <hi>Quod faxit</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>per Chriſti vulnera,</hi> Amen. FINIS.<note place="margin">
+                  <hi>Exod.</hi> 15. 26.</note>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
